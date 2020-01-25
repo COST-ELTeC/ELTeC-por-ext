@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0177" xml:lang="pt">   
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Severina: Edição para o ELTeC</title>
+<author>Torrezão, Guiomar (1844-1898)</author>
+<respStmt>
+  <resp>Criação do HTML original</resp>
+  <name>Vanda Morgado</name>
+</respStmt>
+<respStmt>
+<resp>Codificação segundo as normas do ELTeC</resp>
+<name>Diana Santos</name>
+</respStmt>
+</titleStmt>
+<extent>
+<measure unit="words">4217</measure>
+</extent>
+<publicationStmt><p>Added to ELTeC repo on <date>25-1-2020</date></p></publicationStmt>
+<sourceDesc><bibl type="digitalSource">
+<title>Severina</title> 
+<author>Guiomar Torrezão</author>
+<publisher>Biblioteca Nacional de Portugal</publisher>
+</bibl><bibl type="firstEdition">
+<title>Severina</title> 
+<author>Guiomar Torrezão</author>
+<publisher></publisher>
+<pubPlace></pubPlace> 
+<date>1890</date>
+</bibl></sourceDesc>
+</fileDesc>
+
+<encodingDesc n="eltec-1">
+<p/>
+</encodingDesc>
+
+
+<profileDesc>
+<langUsage>
+<language ident="pt-PT">português de Portugal</language>
+</langUsage>
+<textDesc>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+</textDesc>
+
+</profileDesc>
+<revisionDesc>
+<change when="2020-01-25">Adicionado à coleção ELTeC</change>
+</revisionDesc>
+</teiHeader>
+<text xml:lang="pt-PT">
+<front>
+<div type="titlepage"><head>SEVERINA</head>
+<p>Guiomar Torrezão</p>
+<p>(Á Ex.ma Sr.a D. Maria Augusta de Palma Fernandes)</p>
+</div>
+</front>
+<body>
+<div type="chapter"><head>I</head>
+<p>Pelas largas charnecas, devastadas por um sol inclemente e fustigadas, no inverno, pelo rispido sudoeste que se levanta do mar em impetos tigrinos, chega-se a Sines, uma aldeia da Extremadura, cravada na aresta do oceano, como uma ilhota inexplorada.</p>
+<p>Envolvera na sua folhagem verde-negra o amplo pinheiral, engrandece a com o seu estreito abraço o magestoso oceano e isola-a do mundo, das suas ruidosas festas e das suas interminaveis luctas, a ausência do caminho de ferro.</p>
+<p>Foi em Sines que o príncipe D. Miguel de Bragança embarcou para o exilio, d'onde seguiu, sem tornar a pizar a terra da patria, para a lugubre viagem do tumulo.</p>
+<p>Nos longos serões do inverno, quando as ondas se erguem em promontorios, despedaçando-se de encontro ás ribas e o vento rebenta da barra, bramindo e galopando ao longo da vasta planicie ondulante, como um chacal esfaimado, os velhos pescadores, assentados á lareira, contam á familia, agrupada na muda attitude devota dos  auditorios ingenuos, a legenda d'aquelle pobre rei desthronado, que atravessou a villa apedrejado pelos homens e escarnecido pelas mulheres.</p>
+<p>Outros, mais enfronhados em historia, porque lh'a houvesse ensinado o sr. padre prior, citam, desvanecidos, o nome de Vasco da Gama, orgulhando-se de terem nascido na terra que serviu de berço ao glorioso navegador.</p>
+<p>-- O apedrejado não foi D. Miguel, emendou o Manuel Cherne, defendendo os créditos da terra e respondendo ao visinho, que pela centesima vez estivera escabichando no escandaloso episodio.</p>
+<p> Contou-me o sr. Raposo, filho do outro que atirou a pedra, vocês sabem. Pelos modos, o Francisco Maria Raposo tinha sido castigado,  em Lamego, pelo general Lemos. Era sargento de milicias e deixára que um prezo lhe passasse o pé.</p>
+<p>Vae d'ahi esperou o Lemos, quando elle saía da casa do padre Galufo, ao lado do D. Miguel, e zás, ferrou-lhe com um balazio.</p>
+<p>-- E a mulher? insistiu o visinho, empenhado em exaggerar para os assombros do auditorio, o estupendo acontecimento de um rei, corrido á pedrada.</p>
+<p>-- A mulher, tornou o velho Cherne, cachimbando, e estendendo a mão descarnada e cabelluda sobre a cabeça loira do neto, agachado aos seus pés, a mulher era uma alvoreada (doida, na phraseologia alemtejana). Fez-se um silencio; no fundo da noite escura e tempestuosa, cerrando-se lá fóra em espessas trevas, arrastando-se na lobrega desolação das tristezas sem conforto, o mar resoou, cantando o seu requiem gemebundo.</p>
+<p>-- Vamos á ceia, Severina, disse o velho pescador, levantando a cabeça encanecida e cravando o olhar mortiço na filha, uma esbelta rapariga, alta e loira, que retirava n'esse momento das brazas o tacho da sopa.</p>
+</div><div type="chapter"><head>II</head>
+<p>Havia dez annos que o Manuel Cherne enviuvára.</p>
+<p>Encontrára a companheira agonisante, em uma manhã de outono, ao recolher da pesca aos linguados. Ficaram-lhe duas filhas : Maria Perpetua, mulher de um gageiro, que nunca mais regressára dos Brazis; e Severina, uma creança de 15 annos, franzina, delicada e branca, como uma poetica descendente de lords.</p>
+<p>-- Uma dôr d'alma, esta enfézadinha! lamentava frequentes vezes o velho, sopesando o sacrifício imposto por uma boca, e comparando-o á miseria de trabalho que se poderia esperar d'esse pobre corpo anemico. Maria Perpetua, ralada de saudades e esfalfada de mourejar de sol a sol, caíra em uma tisica, que lhe ia minando lentamente a vida.</p>
+<p>O seu homem, ao abalar-se por esses mares fóra, deixára-lhe nos braços tres creanças, um mocito e duas mocinhas; mas a Maria Perpetua via-se grega com a lida da casa, porque em vez de tres tinha cinco filhos, sendo o mais velho o pae e o mais novo a irmã.</p>
+<p>Luctou em quanto pôde; afinal, quedou-se pregada na cama, d'onde a levantaram para o cemiterio.</p>
+<p>O Manuel Cherne estarreceu.</p>
+<p>Que havia de ser d'elle, a contas com esses quatro innocentes?</p>
+<p>Quem lhe cuidaria do amanho da casa, em quanto andasse pelas aguas do mar?</p>
+<p>Quem lhe teria o almocinho quente, quando elle recolhia de madrugada, transido de frio, depois da pescaria no mar alto, sentindo pesar-lhe cada vez mais os janeiros, que de anno para anno lhe dobravam o tronco herculeo e, não raro, lhe paralysavam o braço, outr'ora infatigavel?</p>
+<p>Com a ajuda da Senhora das Salas, advogada dos pescadores de Sines, esperava ter forças, apesar de velho, para ganhar o pão dos quatro pobresinhos.</p>
+<p>Mas quem havia de remendal-os, de preparar a comida e de acear o casinholo onde viviam ?</p>
+<p>Um desgosto, que o acabrunhava, que o levaria á cova, soluçava o velho, abraçado ao cadaver da  filha. Tres dias depois, foi bater á porta de uma visinha, a pedir-lhe que lhe olhasse pelos pequenos, em quanto elle estivesse fora de casa.</p>
+<p>Mas ao voltar da pesca, a visinha saiu-lhe ao encontro e referiu-lhe, com muitos gestos, que a Severina se oppozera, que lhe dera mandado de despejo, que lhe assegurára que de ninguém precisava, que lhe repetira que era já uma mulher e que podia trabalhar.</p>
+<p>Resolutamente, com uma força que ninguem suspeitaria n essa fraca rapariguinha, delgada como um junco, branca e fina como uma flôr de cera, a Severina chamou a si todos os encargos caseiros e adoptou os tres pequenitos, envolvendo-os na ineôável ternura, amparando-os com a doce e cariciosa protecção maternal, de que só as mulheres na terra possuem o irrevelavel segredo.</p>
+</div><div type="chapter"><head>III</head>
+<p>Aos 25 annos, a Severina attingira o pleno desabrochamento da sua delicada belleza lirial.</p>
+<p>O trabalho desenvolvera-lhe as formas hesitantes, fortalecera-lhe a sangue debilitado e tocára de um fino colorido rosado, o oval pallido d'esse rosto, recortado em alabastro, de que a caprichosa natureza dotára, por engano, a filha de um pescador,  e que faria o orgulho de uma patrieia.</p>
+<p>Nos seus grandes olhos azues, de uma transparência diamantina, reflectia a grave melancolia  inseparável d'esse profundo e insondável mar, que de pequenina a embalára nas suas ondas soluçantes. A bôca, largamente fendida e levemente descorada, esboçava, por vezes, o sorriso triste e fugidio, caracteristico das resignações obscuras, dos holocaustos silenciosos, que o mundo não suspeita.</p>
+<p>Os sobrinhos, que ella ensinára a lêr, que creára nos seus braços debeis, a quem ministrára o viatico da maternidade, disputado pela morte, adoravam-a.</p>
+<p>O Manuel Cherne chamava-lhe santinha, revendo-se, vaidoso, no seu casinholo, aceado, como um palmito, deleitando-se na sua velhice amimada, cercada de todos os confortos, compatíveis com a pobreza.</p>
+<p>-- Aquelle migalho de gente!... quem tal diria!... observava aos da companha, não perdendo ensejo de encarecer os méritos da filha.</p>
+<p>Os rapazes ouviam, compenetrados, louvando o juizo da menina Severina.</p>
+<p>O mais interessado era, sem nenhuma duvida, o Silvestre.</p>
+<p>O Silvestre nascera em Grandola e viera, ainda pequenote, para Sines.</p>
+<p>O pae, caseiro do conde de B., quizera encaminhal-o para a lavoira.</p>
+<p>Mas o rapaz morria-se pelo mar ; as ondas exerciam no seu temperamento de marinheiro innato, a suggestiva attracção de uma caricia voluptuosa, offerecida por uma amante inaccessivel. Fugiu para casa do tio ; eumbello dia, sem consultar ninguém, pediu ao Manuel Cherne que o levasse na canôa, declarando-lhe que queria ser pescador.</p>
+<p>Na tarde em que falleceu a Maria Perpetua, o Silvestre fôra offerecer os seus serviços á menina Severina.</p>
+<p>Uma subita e irresistivel sympathia, feita de intimas affinidades, apparentemente incompatíveis, declarou-se logo entre esse robusto mocetão, bronzeado pelas brizas marítimas, e essa franzina rapariga, esguia, delicada e branca, como uma estatueta de marlim.</p>
+<p>Em as noites de verão, prateadas pelo luar, que punha na larga superfície do oceano como que uma doce e mysteriosa claridade de sonho, o Silvestre vinha assentar-se no banco, fronteiro á porta do Manuel Cherne, onde se reunia toda a familia, e ahi conversava com a Severina.</p>
+<p>Elle, timido e desastrado, limitava-se a contar-lhe os episodios da pesca, não ousando nunca alludir ao segredo que havia tanto escondia no coração, nem dizer uma só das palavras que lhe affluiam convulsivamente aos labios.</p>
+<p>Ella, serena e despreoccupada, ouvia-o e sorria-lhe com o seu meigo sorriso, vagamente doloroso.</p>
+<p>O velho, muito affeiçoado ao Silvestre, o seu braço direito, conforme asseverava, esfregava as mâos e de vez em quando referia uma historieta, allusiva aos bons tempos da mocidade, ou calculava os prós e contras da pescaria, que deveria realisar-se no dia immediato.</p>
+<p>Nos serões de inverno, agrupavam-se todos á beira da chaminé, onde crepitava a lenha, despedindo clarões rubros que purpureavam as caras.</p>
+<p>E lá fóra, o furacão assobiava nas desertas landes e nas dunas, erguidas na sua espectral alvura como um cortejo de fantasmas.</p>
+<p>A espaços, o mar estrondeava de encontro aos rochedos, como uma salva de artilheria disparada por uma armada invencível, ou gemia, arrastando na praia o seu longo soluço dilacerante.</p>
+<p>Instinctivamente, as crianças coziam-se com a parede ou embrulhavam-se nas saias da Severina, como que a pedir-lhe protecção, e todos fallavam a meia voz, cedendo á impressão de terror que vinha da noute escura, do céo tragico, do mar ameaçador e do vento ululante.</p>
+<p>N'essas horas de inconsciente pavor, transmittido pelos elementos sublevados, exercendo a sua influencia dominadora sobre o miserável ser humano, Silvestre titava insistentemente Severina e recebia no peito, como uma caricia lenta, de uma doçura divinamente consoladora, o seu olhar azul e calmo, o seu meigo sorriso, vagamente doloroso.</p>
+</div><div type="chapter"><head>IV</head>
+<p>Que estranha tristeza annuviava o coração d'essa bonita rapariga, ardentemente amada por um bello mocetão, vigoroso, sadio e morigerado, a ponto de servir de exemplo a muitos ?</p>
+<p>A nevrose das cidades, que faz da mulher actual a eterna desequilibrada, a infeliz nostálgica, preadivinhada pelo compassivo Miehelet, estenderia o seu morbido contagio até á humilde aldeia de Sines, perdida nos confins da Extremadura?</p>
+<p>Severina era, como já disse, uma doente, degenerado producto de um remoto atavismo, onde a paciente investigação retrospectiva de Zola descobriria por ventura o documento humano,  susceptivel de elucidar-nos esse ponto obscuro.</p>
+<p>A mesma caprichosa natureza que lhe afidalgára as fórmas, inoculára n'essaalma singela ignorante, alheia aos refinamentos da civilisação e privada da fecunda cultura intellectual, um germen de revolta.</p>
+<p>Inconscientemente, Severina sentia pezar sobre toda a sua vida uma lei illogica, que a desviava de um futuro, vagamente ambicionado.</p>
+<p>Adorava os sobrinhos, que creára como se fossem seus filhos, estimava o pae, gostava do  Silvestre, comprehendia o inapreciavel valor da affeição dedicada, silenciosa e inalterável que lhe votava esse excellente rapaz; a sua innata bondade revelava-lhe, intuitivamente, todos os  thezouros de boa e paciente ternura que existiam, latentes, no coração do Silvestre; sabia que a vida dJelle se absorvia toda n'esse amor e que lh'a sacrificaria, se fosse preciso ; estremecia-o,  queria-lhe como a um irmão, admirava a força de respeito que o pobre rapaz impunha, heroicamente, á intensidade do amor; entretanto, nenhum desses alfectos lograva preencher o insondavel vacuo da sua alma, inquieta e perturbada.</p>
+<p>Severina esperava sempre, sem saber porque, sem o confessar a si propria, alguma cousa, que não chegava nunca.</p>
+<p>Seria um amor lendário, personificado, como no Eeve , em um príncipe descendente de cardeaes?</p>
+<p>Mas se ella nem sequer suspeitava a existem cia das paixões românticas, que inspiram os grandes artistas.</p>
+<p>Seria a riqueza; seria a satisfação da vaidade, o iman que exerce a sua imperiosa attracção sobre todas as mulheres?</p>
+<p>Mas a singela filha de um pescador não podia conhecer o valor do oiro, applicado ao voluptuoso epicurismo da vaidade.</p>
+<p>Ás vezes, ao cair da noite, Severina gostava de divagar na praia, acompanhada dos sobrinhos.</p>
+<p>Emquanto as creanças rebolavam na areia, rindo, saltando, correndo ao desafio, ella quedava-se immovei e pensativa, perfilando o seu vulto esguio na clara luz argentea do luar, que se alastrava na praia.</p>
+<p>O seu obscuro instincto de artista acordava vagamente em face da noite estrellada e do largo mar ondulante. O olhar de Severina percorria a linha alvejante das casas, desdobrando-se, como um collar de pérolas, sobre o crystal das ondas; detinha-se no Revelim, o colosso de granito, resaltando com o seu contorno anguloso do azul diaphano ; em seguida, perdia-se na immensidade do oceano, esfumado ao longe em um penumbroso fundo de aguarella e absorvia-se na visão do infinito, sentindo confusamente, sem ter consciência da impressão que a agitava, da admiração que a possuia, o indefinido terror do incognoscivel.</p>
+<p>Voltava-se depois para o Pontal, curvado para</p>
+<p>o abysmo, como uma gigantesca esphinge, e fitava longamente as anfractuosidades do rochedo, immergindo da agua espelhante e recortando  na luz opalina do luar a sua negra silhoetta de monstro petreficado.</p>
+<p>E nessas horas de silenciosa abstracção, Severina esquecia o Silvestre, a sua aldeia, a condição humilde em que nascera, o ignorado cantinho da terra em que deveria morrer e viver.</p>
+<p>A voz dolente das ondas, desenrolando-se na praia e quebrando-se de encontro ás ribas, soava-lhe ao ouvido como um rythmo fantástico que a arrebatava em espirito para uma região desconhecida. Pungia-a o nostálgico anceio, o torturante desejo de uma ignorada felicidade, que ella não sabia onde existia nem de que elementos era formada, mas que a chamava de longe, fugindo-lhe sem cessar.</p>
+<p>Então Severina, tremia, estendia os braços, na attitude de quem supplica, e dos seus limpidos olhos azues, franjados de compridas pestanas, desprendiam-se duas lagrimas, que lhe rolavam nas faces pallidas.</p>
+<p>-- Tia, gritava um dos tres pequenitos, tenho frio!</p>
+<p>-- Cala-te, choramigava o mais novo, deixa-me brincar.</p>
+<p>Severina corria para as creanças, abria-lhes os braços, apertava-as ao peito e beijava-as carinhosamente, deleitando-se no amoravel  contacto dessas tres cabecinhas, que afugentavam a visão obcecante.</p>
+</div><div type="chapter"><head>V</head>
+<p>N'esse domingo de dezembro, o Silvestre, vestido de ponto em branco, viera procurar o Manuel Cherne.</p>
+<p>A Severina tinha ido á missa; as crianças corriam atraz dos patos e gallinhas, flanadores habituaes das estreitas ruas de Sines; o velho pescador, assentado no banco fronteiro á casa,  aquecia-se ao sol.</p>
+<p>-- Olá, meu rapazola, bradou o Manuel, cachimbando, como tu vens catita!</p>
+<p>Timidamente, o Silvestre approximou-se; tirára o chapéo e com um lenço encarnado limpava a testa, inundada de suor.</p>
+<p>-- Homem, notou o Manuel, piscando os olhos, pois tu suas com este frio de levar coiro e cabello?</p>
+<p>Fez-se um silencio. O Silvestre assentára-se no banco, sem proferir palavra. O velho pescador continuava a fital-o, rindo-se maliciosamente.</p>
+<p>O sol nimbava-os, avivando-lhes a cor argilosa e imprimindo-lhes o firme desenho rectilineo de um grupo de terra côta.</p>
+<p>E no amplo espaço, vaporisado por uma tenue neblina que azulejava os longes, adelgaçando-os em uma fluidez aquatica, o mar rugia lamentosamente, executando o seu requiem gemebundo.</p>
+<p>-- Nâo queres esperar pela Severina ? perguntou o velho ao Silvestre, que se levantára na mesma attitude taciturna e contrafeita, enrolando as abas do chapéo e cravando os olhos no chào.</p>
+<p>Aquelle nome, que resoára até ao mais intimo do seu ser, respondendo a todos os sentimentos que o preoccupavam, foi a chave mys-90 teriosa que lhe descerrou a boca, obstinadamente muda.</p>
+<p>-- Tio Cherne, começou, tartamudeando, eu vinha dizer-lhe...</p>
+<p>-- Acaba, homem, acudiu o outro, salivando, tens a lingua pregada ao céo da boca ?</p>
+<p>-- Sim, eu vinha pedir-lhe... e o Silvestre hesitou, não se atrevendo a formular o audacioso  desejo que alli o trouxera.</p>
+<p>-- Valha-te Deus, volveu o Cherne, batendo-lhe no hombro, tu acobardas-te de fallar commigo ?</p>
+<p>-- Não é isso, tio Cherne, mas como o outro que diz, sim, vossemecê bem percebe...</p>
+<p>-- Percebo que és um pedaço d'asno, rematou o velho, soltando uma gargalhada.</p>
+<p>-- Pois lá vae, exclamou o Silvestre, desempenando a estatura, como um homem disposto a  affrontar um perigo mortal. Eu gósto da menina Severina e vinha perguntar-lhe se seria do  seu agrado que nos casassemos.</p>
+<p>O pedido não surprehendeu o Manuel Cherne.</p>
+<p>Havia muito que elle notára a sympathia do Silvestre. Por vezes, sorrira-lhe a idéa d'essa união, que respondia aos seus mais secretos votos.</p>
+<p>Com tanto que a rapariga não se opponha, concluía, ponderando nas exquisitices da filha.</p>
+<p>Ergueu-se de golpe e abraçando o Silvestre, prometteu-lhe que fallaria á Severina.</p>
+<p>Ella ouviu o pae e com o seu meigo sorriso doloroso respondeu, que casaria com o Silvestre, se tal era a vontade de ambos.</p>
+<p>Aprazou-se a ceremonia para o mez de S.João.</p>
+<p>O Silvestre parecia um ebrio, cambaleava, fallava só, ria sem motivo e tinha infantilidades que contrastravam com a musculosa estructura d'esse corpo de athleta, fundido em bronze.</p>
+</div><div type="chapter"><head>VI</head>
+<p>Aquella lua nova do mez de janeiro déra agua pela barba aos pescadores.</p>
+<p>O vento e o mar batiam-se desesperadamente, empenhados em uma lucta titanica. Logo ao fechar da noite, a espessa cerração embrulhava as ondas em uma mortalha de largas dobras roçagantes. E o mar crescia em acastellados vagalhões, ameaçando devorar Sines.</p>
+<p>Por espaço de muitos dias, os pescadores não se aventuraram a ir ao mar.</p>
+<p>O combate era impossivel entre o homem, misero atomo perdido na immensidade, e o monstro, indomado e indomável, prompto a engulil-o.</p>
+<p>O Manuel Cherne ficára-se no casinholo, a remendar as redes, emquanto o Silvestre aproveitava a primeira aberta, para se fazer ao largo.</p>
+<p>Amanhecera um dia chuvoso e encarvoado.</p>
+<p>Do céo baixo, acolchoado de nuvens pardacentas, descia lentamente a lugubre tristeza das catastrophes eminentes.</p>
+<p>Sentia-se o convulsivo dilaceramento de uma agonia tumultuosa n'esse oceano embravecido, cavado de medonhos vórtices, alteando-se, por vezes, em montanhas de espuma, que pareciam lamber as nuVens, vergastado pelo vento da tempestade que lhe arrancava rugidos cavernosos.</p>
+<p>Ás duas horas da tarde, a cerração augmentára, confundindo a terra e o mar na mesma tinta aquosa, cobrindo-os com o mesmo sudário plumbeo, apertando-os na mesma cinta de ferro sulcada, a espaços, pela chamma azulada dos relampagos.</p>
+<p>-- O lobo anda assanhado! commentára o Cherne para o vizinho, que viera pedir-lhe uma pitada de rapé.</p>
+<p>O outro abanára a cabeça, compenetrado, esboçando um largo gesto de acabrunhamento.</p>
+<p>Ao anoitecer, correu em Sines que um vapor hes- panhol, procedente de Gibraltar, viera descair sobre os rochedos da Perceveira, erguidos entre o farol e o forte.</p>
+<p>Ao clamor dos naufragos, responderam os gritos dos pescadores ; mas uns e outros perderam-se no estrondear das ondas; despedaçando-se de encontro ás ribas.</p>
+<p>O Silvestre saltára para a canôa e remára, desesperadamente, na direcçao da Perceveira.</p>
+<p>Immergindo na densa cerração, a carcassa do vapor desenhava-se vagamente, como um ponto negro perdido no infinito do céo e das aguas.</p>
+<p>A canôa do Silvestre, sacudida pelas ondas, batida pelo sul, revoluteava ás cegas, sem governo, como uma gaivota desazada. De instante a instante, despenhava-se no abysmo e desapparecia, para reapparecer em seguida, boiando á tona d'agua, arrastando-se ao acaso n esse vasto pélago enfurecido.</p>
+<p>De súbito, um pé de vento voltou-a.</p>
+<p>Então o Silvestre descançou alguns instantes, deitado ao lume d'agua.</p>
+<p>Em seguida, invocou a Senhora das Salas, pronunciou o nome de Severina e com os seus braços musculosos cortou as vagas, nadando vigorosamente.</p>
+<p>O vento amainára; o nevoeiro abrira uma clareira, atravéz da qual se avistava uma nesga de céo azul, doirada pela tremula scintillaçâo de uma estrella.</p>
+<p>Esporeado pelas ondas, o negro esqueleto do vapor cambaleava, estorcendo-se em deslocações fumnambulescas.</p>
+<p>O Silvestre nadava sempre, tentando approximar-se da praia.</p>
+<p>N'essa occasião, sentiu-se empolgado pela mão crispada de alguém que pesava sobre os seus hombros, como uma massa inerte.</p>
+<p>Reunindo as forças que começavam a atraiçoal-o, levantou a cabeça, aspirou o ar que lhe faltava, e sem tentar fugir ao mortal abraço d'esse corpo de afogado, que se lhe collára á pelle, continuou a nadar. Mas a vista obscurecia-se-lhe, os braços e as pernas, inteiriçados, perdiam a agilidade e não deslocavam a agua, que o arrastava lentamente para o trágico sorvedouro.</p>
+<p>De repente, soou-lhe aos ouvidos, como um longinquo zumbido, o murmurio de vozes, fechou os olhos e mergulhou nas trevas, que o cobriram, apagando-lhe a consciência da vida.</p>
+</div><div type="chapter"><head>VII</head>
+<p>Chegára a primavera, lavando os céos brumosos e mosqueando as charnecas e o pinhal com viçosos ramilhetes de rosmaninho, malmequeres e giésta.</p>
+<p>A renovação começava a agitar surdamente os flancos da terra, que se abriam em sulcos fecundos ao contacto da charrua.</p>
+<p>O mar tinha a doçura enternecida do convalescente que acaba de debater-se nos paroxismos de uma agonia tumultuosa.</p>
+<p>José de Lumbrelas, salvo pelo Silvestre, viera com elle para casa do Manuel Cherne.</p>
+<p>Severina tratára desveladamente dos dois homens, prodigalisando-lhes todos os cuidados de uma enfermeira solicita, infatigável e intelligente como poucas.</p>
+<p>A gente da canoa, que acudira a tempo de pescar os dois naufragos, fora largamente retribuída pelo hespanhol, um esbelto rapaz de 25 annos, engenheiro de pontes e calçadas, que visitava Portugal em viagem de estudo.</p>
+<p>Quinze dias depois do naufragio, José de Lumbrelas fora hospedar-se para casa de um negociante inglez, correspondente do pae. E alli se deixára ficar, encantado, affirmava elle, com o aspecto, desartificiosamente pittoresco, d'esse burgo de pescadores, adormecido no seio do oceano.</p>
+<p>Ao entardecer, Lumbrelas ia ver os seus amigos, os seus salvadores, conforme os designava.</p>
+<p>Brincava com as crianças, que lhe chamavam o sr. Pepe, conversava com o Manuel Cherne, perguntava pelo Silvestre e, por vezes, os seus grandes olhos pretos, que lhe illuminavam a tez morena, sombreada pela barba á Guise, cravavam-se ardentemente em Severina.</p>
+<p>A filha do pescador ouvia-o silenciosa, enlevada na sonoridade d'essa voz de homem finamente educado, exprimindo no viril idioma de Cervantes idéas elevadas, phrases de uma estranha graça suggestiva.</p>
+<p>Só, no seu pequenino quarto, Severina via-o, fallava-lhe, confiava-lhe a torturante historia da sua mocidade, perseguida por uma visão allucinadora; via no escuro da noite esses dois olhos negros, profundos como o oceano, que a deslumbravam.</p>
+<p>O engenheiro começára a fallar portuguez, expressamente, explicava elle, para ser entendido pelos seus amigos.</p>
+<p>Pouco a pouco, foram-se amiudando as visitas.</p>
+<p>Pepe ficava-se dias seguidos em casa do Manuel Cherne, captivo do encanto de Severina, envolvendo-a na irresistível fascinação do seu amor, provando-lhJo a cada instante em attençóes de uma delicadeza reservada e por isso mesmo duplamente perigosa.</p>
+<p>Por esse tempo, o Silvestre, que passava semanas inteiras no mar, apparecendo raras vezes em casa da noiva, -- sempre taciturno e cabisbaixo, -- veio participar ao Manuel Cherne que resolvera ir tentar fortuna ao Brazil, acceitando para o effeito a proposta que lhe fizera o capitão de um brigue hollandez, ao engajal-o para moço de bordo.</p>
+<p>O velho tentou dissuadil-o, recordou-lhe a projectada união com a filha, encarregou Seve'rina de convencel-o.</p>
+<p>Mas o Silvestre insistiu no seu proposito, pretextando que só casaria quando pudesse offerecer á menina Severina um marido, que lhe désse a estimação que ella merecia.</p>
+<p>Quatro dias depois largava de Sines, direito a Lisboa, o brigue que levava o Silvestre, á vista da familia Cherne, agrupada na praia, acenando-lhe, pequenos e grandes, o adeus saudoso, que punha lagrimas nos olhos de todos, emquanto o pobre rapaz, voltado para a terra onde lhe ficava para sempre morta a primeira e a unica felicidade da sua vida, chorava convulsivamente.</p>
+</div><div type="chapter"><head>VIII</head>
+<p>Muito antes de Pepe lhe declarar que a amava, Severina comprehendera que se operára na sua vida um subito reviramento, que a transfigurára.</p>
+<p>A sua alma, doentiamente perturbada, repousára afinal na divina realisaçao do sonho, até ali inaccessivel.</p>
+<p>A visão humanisara-se; o Deus ignoto viera, atravez das ondas, ao seu caminho, personificado n'esse homem bello como um príncipe, eloquente como um poeta, delicado e meigo como um archanjo.</p>
+<p>No seu coração, pungido de secretos anceios, fizera-se uma paz ineffavel e fulgira uma luz redemptora.</p>
+<p>E desde então, Severina vivia em um mundo á parte, absorta na muda adoração do seu vivo ideal, estranha a todos os desencantos da terra, alheia a todos os obstáculos que a distanciavam do ente amado, esquecendo a dor da eterna separação, suspensa sobre a sua cabeça, como uma sinistra ameaça.</p>
+<p>Uma manhã de maio que o Manuel Cherne aproveitára para a pesca dos linguados, José de Lumbrelas veio lêr a Severina uma carta do pae, em que o vellio negociante ordenava ao filho que partisse sem demora para Barcelona, onde um negocio urgente solicitava a sua presença.</p>
+<p>-- E o senhor obedece-lhe? perguntou Severina, livida como uma defunta.</p>
+<p>-- Que reraedio! volveu elle, fitando-a apaixonadamente ; depois, curvando-se, dominando-a sob a imperiosa fascinação do olhar, murmurou-lhe ao ouvido : Venha coinmigo para Hespanha ; amal-a-hei sempre, sempre !</p>
+<p>-- Sim! balbuciou Severina, na inconsciência da commoção que a prostrava inerte, que a cegava e entontecia.</p>
+<p>Então elle beijou-a doidamente, supplicando-lhe que o esperasse ás 11 horas, explicando-lhe que n'essa mesma noite partiriam para Lisboa.</p>
+<p>Durante as horas que se seguiram, Severina moveu-se como uma somnambula, indifferente a tudo que a rodeava.</p>
+<p>As 11 horas, José de Lumbrelas fez o signal convencionado.</p>
+<p>Severina ergueu-se na sua pallidez espectral e abriu automaticamente a porta, absorta no mesmo extasiante sonho, atravéz do qual pronunciára a palavra que deveria decidir de todo o seu destino.</p>
+<p>Lá fóra, o luar argentava a linha das casas, a massa escura dos pinheiros e o perfil granítico dos rochedos, e na doce e religiosa serenidade da noite estrellada o mar cantava o seu requiem gemebundo.</p>
+<p>Elle enlaçou-a nos braços sofregamente e transpôz o limiar do humilde casinholo, onde o velho pescador e as tres creanças dormiam socegadamente.</p>
+<p>De repente, uma fresca voz de creança gritou :</p>
+<p>-- Tia Severina, deita-te ao pé de mim, tenho medo!</p>
+<p>Ella estremeceu, sacudida pela violenta reacção de todo o seu organismo, acordado á imperiosa voz do dever.</p>
+<p>Recuou aterrada, esfregou os olhos e levantando o braço na direcção da estrada que se desenrolava ao longe, disse para o hespanhol, que a olhava estupefacto:</p>
+<p>-- Póde retirar-se. Eu não deixo aquelles innocentes, os meus filhos! A mãe, accrescentou, levantando para o céo os seus limpidos olhos azues, húmidos de lagrimas, a pobre mãe não m'o perdoaria.</p>
+<p>E fechou-lhe a porta, como se fecha a pedra de um tumulo sobre os restos inanimados de um morto.</p>
+</div>
+</body>
+</text>
+</TEI>
+
