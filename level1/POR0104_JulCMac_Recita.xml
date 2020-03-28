@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0104" xml:lang="pt">   
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Uma Récita do Roberto do Diabo: Edição para o ELTeC</title>
+<author>Machado, Júlio César (1835-1890)</author>
+<respStmt>
+  <resp>Criação do HTML original</resp>
+  <name>Ricardo Lourenço</name> 
+</respStmt>
+<respStmt>
+<resp>Codificação segundo as normas do ELTeC</resp>
+<name>Diana Santos</name>
+</respStmt>
+</titleStmt>
+<extent>
+<measure unit="words">4280</measure>
+</extent>
+<publicationStmt><p>Added to ELTeC repo on <date>28-3-2020</date></p></publicationStmt>
+<sourceDesc><bibl type="digitalSource">
+<title>Dentro da Noute: contos góticos</title>
+<author/>
+<publisher>Projecto Adamastor</publisher>
+<ref target="http://projectoadamastor.org/antologia-dentro-da-noute-contos-goticos/"/>
+</bibl><bibl type="firstEdition">
+<title>Contos ao Luar, pp. 87-100</title> 
+<author>Júlio César Machado</author>
+<publisher></publisher>
+<pubPlace>Lisboa</pubPlace> 
+<date>1889</date>
+</bibl></sourceDesc>
+</fileDesc>
+
+<encodingDesc n="eltec-1">
+<p/>
+</encodingDesc>
+
+
+<profileDesc>
+<langUsage>
+<language ident="pt-PT">português de Portugal</language>
+</langUsage>
+<textDesc>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+</textDesc>
+
+</profileDesc>
+<revisionDesc>
+<change when="2020-03-28">Adicionado à coleção ELTeC</change>
+</revisionDesc>
+</teiHeader>
+<text xml:lang="pt-PT">
+<front>
+<div type="titlepage"><head>Uma Récita do Roberto do Diabo</head>
+</div>
+</front>
+<body>
+<div type="chapter"><head>I</head>
+<p>Cantava-se, nessa noite, o Roberto do Diabo.</p>
+<p>Nunca na minha vida estive tão preocupado. Havendo sentido mil vezes o rabo do diabo zurzir-me invisível, quis ir conhecer na história de Roberto o grande drama de alguma existência levada do demónio, em que as contrariedades apresentassem mais espinhos do que tem de crinas a guedelha de Satanás!... Julgava-o um homem crivado de credores, esse fatal Roberto! Um louco que empenhara a amante! Um jogador que vendera a filha!... Um filho que apostara a mãe!.. Antevia a contradança fantástica de mil ilusões perdidas! mil esperanças quebradas! mil opróbrios! mil fatalidades! mil infernais loucuras!...</p>
+<p>Salta, Roberto! Salta, para apanhares no ar o braço oculto que te surra! Aguenta, pobre infeliz, o encontrão dos tolos e a pedrada dos vilões! Geme sorrindo! e morde-te de raiva! É o diabo que te persegue! que te belisca! que te azorraga! Salta, Roberto! Salta, desgraçado!...</p>
+<p>Ergueram o pano.</p>
+<p>Estava-se no Lido, em frente do porto de Palermo. Na praia em que Lord Byron passeava naquela tarde de Outono em que uma das suas amantes, simples rapariga do povo, lhe saiu ao caminho e o agarrou pelas goelas, perdida de ciúmes de uma fidalga: — Gran cane della Madona! É questo il tempo d’andare ai Lido?</p>
+<p>Roberto e Bertran, servidos por uma caterva de pajens e escudeiros, estão em banquete.</p>
+<p>Bertran parece-me um velho libertino, um bragante licencioso, para quem o mundo é uma câmara óptica sem significação! Ele faz-se passar aos olhos da sociedade por um habitante do sombrio império, que passeia pela terra em viagem de recreio. É isto verdade? Não é isto verdade? Eu nada sei. Roberto é o fruto dos amores de Bertran com uma princesa da Normandia. O diabo, e seu filho! Os costumes dissolutos deste gordo devasso principiavam a inventar no ânimo de Roberto tendência para o jogo e para as orgias. Alice, porém, aparece ali, — a pura e inocente Alice! — perseguida pelos pajens e agarrada pelos cavaleiros. Roberto reconhece nela uma menina da sua terra, e diz aos tafuis:</p>
+<p>— Esta donzela é minha vizinha, e peço que nenhum de vós se atreva a dar-lhe beliscões, como estais fazendo. Isso são coisas próprias à porta do Marrare, mas inconvenientes à dignidade da praia do Lido!</p>
+<p>Alice, penhorada por esta fineza, resolve amá-lo para lhe agradecer. Porém, Roberto, que em tendo uma gota de vinho é a sinceridade em pessoa, confessa-lhe que o seu coração está dado a uma princesa. A donzela atribui este singularíssimo acontecimento a conselhos do gordo libertino, e toma-lhe tal quezília que até lhe observa semelhanças com o diabo que está aos pés do S. Miguel da sua aldeia! Bertran, charlatão de primeira qualidade, começa a dar-se ares infernais, fazendo caretas satânicas e assustando a rapariga a ponto de a fazer fugir.</p>
+<p>Principia aqui a grande luta do elemento do bem, e o do mal. Roberto sente uma força, que o impele para Alice, — enquanto Bertran emprega o seu poder para o segurar.</p>
+<p>— Que fazemos nós esta tarde? — pergunta-lhe Roberto como quem se enfastia.</p>
+<p>— Vamos a Carriche!</p>
+<p>— Mau tom! Isso é péssimo tom, amigo Bertran!</p>
+<p>— Então, vamos jogar e perder os cabelos!...</p>
+<p>— Isso agora sim! À moda de Sintra!...</p>
+<p>E Roberto joga. E perde sempre! E perde tudo!... Mas, Bertran diz-lhe que o oiro é uma quimera, e o inocente jogador contenta-se com este aforismo, dá o braço a seu pai, e vão passear sem um real na bolsa.</p>
+</div><div type="chapter"><head>II</head>
+<p>— Esta ópera é tétrica! — disse-me no intervalo um homem que estava sentado ao meu lado.</p>
+<p>— Híbrida! — respondi-lhe.</p>
+<p>— Anómala!... — acrescentou.</p>
+<p>— Acéfala!... — repliquei-lhe.</p>
+<p>Olhámo-nos um instante em silêncio. Nenhum de nós sabia o que julgar do outro. Qual de nós dois caçoava? Ele parecia-me grave, excêntrico, um pouco fantástico talvez. Era um homem pequenino e proporcionado, que tinha a figura de um pequeno de doze anos, e a sisudez de um estadista de sessenta. Não tinha barba, nem sobrancelhas. Um chinó de cabelos extremamente loiros cobria-lhe a cabecinha, despovoada e nua como a palma da mão. Dir-se-ia uma velha, vestida d’homem nas folias carnavalescas.</p>
+<p>Um amigo meu, que passava, chamou-me pelo meu nome todo: apertámo-nos mutuamente a mão; o homem pequenino abriu desaforadamente os olhos, e, medindo-me de alto a baixo, perguntou-me num tom de voz flauteado:</p>
+<p>— É porventura o senhor o folhetinista?</p>
+<p>— Eu próprio, senhor! — respondi.</p>
+<p>— Muito prazer tenho em o conhecer!</p>
+<p>— Terei muita alegria se lhe puder servir!</p>
+<p>— A sua opinião sobre esta ópera?</p>
+<p>— Conheço apenas o primeiro acto, que me pareceu magnífico!</p>
+<p>— Tem uma qualidade apenas — replicou o homem pequenino, roendo as unhas. — A qualidade constante de Meyerbeer, que é dispor, tão admiravelmente, dos recursos da arte, que a nossa alma sente pela instrumentação a diferença de cada carácter. Veja como se reconhece o Inferno a priori, em Bertran; o perfume místico dos anjos, em Alice; a luta da alma com a matéria, do espírito do bem com o espírito do mal. A música deste alemão tem ideias; mas, não deu grandeza senão ao mal. Porquê?! Alice, perseguida, parece ser a situação simbólica da inocência neste mundo!</p>
+<p>Deu-se o sinal para continuar a ópera. O homenzinho, que já tinha comido duas unhas, principiou a comer terceira.</p>
+</div><div type="chapter"><head>III</head>
+<p>Bertran é o tipo do falso amigo. Perverte Roberto por maus conselhos e maus exemplos. Recolhem-se tarde todas as noites, leva-o a sítios de má companhia, e escolhe para as suas conversações os assuntos mais despejados. Uma vez, como não tenham onde passar a noite, apresentam-se num convento... de freiras mortas, e, por artes diabólicas, fazem-nas dançar! Como se compreende isto? Por que é que isto se tolera? Ignoro. Sei apenas que Bertran, vivendo habituado a tais extravagâncias, teve o espírito de se prevenir com o seu capote para não se constipar, e aparece embuçado ao fundo, perturbando pela sua presença o repouso das aves da noite, que fogem assustadas.</p>
+<p>— Eis-me — diz então o pai Bertran, que tem o fraco de falar só! —, no convento destas irreligiosas, cuja balda, ao que se diz, era queimar a uns certos deuses um incenso impudico, fazendo reinar o prazer nestes lugares, em que cumpria observar a virtude!</p>
+<p>Principiam alguns pirilampos a percorrer a galeria. As freiras mortas e enterradas, tão depressa lhes dá o faro de haver homem no convento, saltam dos seus túmulos, e querem conversa com Bertran; porém, o gordo demónio diz-lhes por esta forma:</p>
+<p>— Reverendíssimas! Desejo apresentar-lhes um amigo meu a quem estimo como às meninas dos meus olhos, e espero que o seduzam vossos encantos, visto que o meu intento é pervertê-lo, e pregar com ele em casa do diabo!</p>
+<p>As freiras fazem um gesto de assentimento a este desejo de Bertran, que volta costas.</p>
+<p>— Então já retira?</p>
+<p>— Vou buscar o meu amigo, e cá lho deixo em meu lugar. Quero hoje deitar-me cedo! Ando moído!</p>
+<p>— Faça o que quiser!</p>
+<p>Tão depressa aparece Roberto, as freiras sentem reanimar-se pelo instinto das paixões, e tiram dos túmulos alguns objectos dos seus prazeres profanos, copos, dados, ânforas, que sei eu?! E arrancam os vestidos! e enfeitam a fronte de coroas de cipreste! e não escutam, não desejam, não pedem senão prazeres! A dança torna-se bacanal ardente de mulheres de seio nu e tranças caídas... Roberto quer fugir; tem pudor ainda, o honesto moço: mas, as freiras agarram-no e puxam por ele em risco de o romperem: uma oferece-lhe um copo, outra, um beijo: a abadessa de Santa Rosália procura seduzi-lo por uma dança voluptuosa e provocante; as freiras dançam-lhe em redor, a noite vai serena, o ar está quente, as estrelas brilham no céu, as bacantes empalidecem de desejos, e o convento não está alumiado senão pelos raios tentadores da Lua... A abadessa leva-o insensivelmente até um túmulo, que está aberto, — e deixa-o abraçá-la, indicando-lhe um ramo de cipreste, que ele deve colher... O mancebo, embriagado d’amor, toca esse talismã, e as freiras formam em redor dele um cordão; o cruel, porém, tem ânimo de lhes fugir; a vida que as animava extingue-se gradualmente, cada uma delas vem cair prostrada à beira da sua sepultura, e, pelo interior das celas, rompe um suspiro infernal...</p>
+</div><div type="chapter"><head>IV</head>
+<p>O homem pequenino escutava trémulo, encostando um dedo de cera aos lábios lívidos. Dir-se-ia que a incerteza do crime ou do remorso se apoderava dele: débil:</p>
+<p>— Que géneros de literatura tem tentado?</p>
+<p>— Principiei, como toda a gente... por fazer versos!</p>
+<p>— E deixou de os fazer, porquê?</p>
+<p>— Sacrifiquei-me ao público para não o sacrificar a mim!</p>
+<p>— Modéstia adorável. Porque não escreve um drama de enredo lúgubre? O público gosta imenso da literatura horrível! Quer encarregar-se de dramatizar a minha história?</p>
+<p>— A sua história?</p>
+<p>— Porque não!</p>
+<p>Olhei-o; estava azul, não azul-celeste, mas azul... diabólico. Se o teatro se alumiasse nesse momento à luz bruxuleante de um fogo-de-artifício, aceitá-lo-ia sem réplica por um demónio de mágica! Ele pareceu meditar um instante: depois, disse-me desta forma:</p>
+<p>— Sou um dos heróis da história que vou contar-lhe. Ou, não sou. É melhor não ser. Faça de conta que eu nada lhe disse. É certo apenas que se a natureza não favorecesse às vezes pela riqueza de faculdades os instintos do crime, as eventualidades do destino ou do acaso nem sempre tomariam a seu cargo enredar a acção de mil atentados fatais. O herói da minha história era uma dessas organizações em que a energia da resolução rivaliza com a facilidade do engenho. Se houvesse querido ser homem político, o seu nome talvez hoje escurecesse a glória de Richelieu, de Mazarin, de Pombal, ou de Cromwell; e se a sorte tivesse feito dele um desses deserdados atrevidos que têm por divisa, como os salteadores de Schiller — «Guerra aos castelos, paz às cabanas!» — é certo que a temeridade do seu carácter aventureiro o haveria tornado mais temível do que os fatais heróis de estrada, que contaram os crimes pelos dias!...</p>
+<p>Todavia, o âmbito da sua existência fora sempre acanhado. Ricardo nascera debaixo do tecto obscuro de uma aldeia, cavada entre duas serras. Descendente de uma família de lavradores, aprendera com as bênçãos de seu pai e as orações de sua mãe a domar a efervescência da sua índole e os caprichos da sua organização.</p>
+<p>Ele tinha vinte e três anos. Quando a minha história principia, vira expirar sua mãe, vítima da idade e da doença, e não soltara uma lágrima ao apertar as mãos geladas da pobre enferma, que um momento antes de expirar lhe pedira na ansiedade de quem antevê a eterna separação:</p>
+<p>— Deixa-me dar-te o último beijo, Ricardo!</p>
+<p>Instantes depois, o mancebo voltou o rosto enxuto e sereno para um canto do quarto, onde chorava convulsivamente uma rapariga, abraçada a um velho, que repetia uma oração, e disse-lhe:</p>
+<p>— Nossa mãe morreu, Joana!</p>
+<p>Cobriu com a dobra do lençol o rosto lívido da defunta, passou um braço sobre o ombro de sua irmã, e, levando-a do quarto, continuou dizendo-lhe:</p>
+<p>— Não chores assim! Os teus olhos tornam-se feios pelas lágrimas. Deixa-me enxugá-los com os meus beijos! Tens dezenove anos, Joaninha, e nessa idade não ter mãe é ser anjo e não ver o Céu! Há-de passar-se na tua alma uma tormenta de angústias e saudades, mas ergue a fronte e esquece! Hás-de ser velha um dia, e morrerás talvez sem que te chorem. Perdeste tua mãe... Tens-me a mim!</p>
+<p>A rapariga respondeu debilmente:</p>
+<p>— Tenho meu pai!</p>
+<p>Ricardo sorriu-se.</p>
+<p>— Teu pai! E que esperas dele, pobre velho sem ânimo, que ali está ainda no quarto de nossa finada mãe, rezando por não poder chorar!</p>
+<p>— Não blasfemes, meu irmão! — disse a rapariga com uma expressão angélica. — Não blasfemes, porque também não choraste!...</p>
+<p>— A tua dor não foi tão grande, Joaninha, que te impedisse de me observares! — replicou Ricardo com o seu frio sorriso. — Escuta. Tu não compreendes a robustez da minha organização, nem adivinhas sequer quanto é ténue a tua! Nossa mãe acaba de nos faltar, e nestes primeiros tempos estremecerás de susto ao mais leve som que se assemelhe ao da sua voz, ao mais subtil passo que dê ideia do seu andar, a qualquer coisa natural e simples em que encontres uma lembrança, ou que te desperte uma saudade. Não deves permanecer nesta casa. Voltarás depois. Espairece agora pelos campos, e procura no aroma das flores, na frescura da brisa, no pálido clarão do despedir do Sol pelas cumeadas dos montes, a tranquilidade que não encontrarias aqui. Irás para casa de tua madrinha, e que a sua predilecção por ti encontre carinhos que amenizem o pungir das tuas saudades. Partirás para a semana!</p>
+<p>— Não! Ricardo! Não desamparo meu pai.</p>
+<p>— Eu o acompanharei. Precisa mais do amparo de um homem, do que das meiguices de uma criança. Partirás!</p>
+<p>A vontade de Ricardo era sempre respeitada em casa. A rapariga, treze dias depois, teve de obedecer, e partiu acompanhada pelo irmão.</p>
+<p>Durante o caminho, nenhum deles soltou uma palavra. Dir-se-ia que o coração de Joaninha adivinhava alguma coisa mais fatal ainda do que a morte de sua mãe... A estrada era longa e a tarde declinava. Havia na palidez do Sol uma cor estranha e de mau presságio; pareciam ensanguentados os seus últimos raios! Ao regressar a casa, e desde o momento em que Joaninha deixou de avistar seu irmão, Ricardo conheceu que ia desamparado moralmente, — porque, enquanto tivera aquele anjo ao seu lado, sentira-se forte e sereno de ânimo; e agora, sentia-se fraco, isolado e medroso. — Anoitecera. O firmamento principiava a olhar a terra com todos os seus olhos... A brisa da noite espreguiçava-se brandamente, e levava no seu regaço mil segredos de crime e mil segredos d’amor...</p>
+<p>— Oh noite! — exclamou Ricardo. — Porque não é negro o teu manto, e porque o vejo bordado de tão esplêndidas safiras? Parece que a natureza não quer hoje dormir! Dez anos da minha vida, por uma noite escura!</p>
+<p>E, acaso, providência, ou fatalidade, — a noite escureceu.</p>
+<p>O vento, que soprou por instantes rijo e desenfreado, aquietou-se de repente. As nuvens aglomeraram-se carregadas e sombrias. A solidão era completa. A noite ia tão escura que nem se divisavam ao cabo da estrada as sombras alvadias das casinhas da aldeia.</p>
+<p>O lavrador sustentava em casa sua velha mulher, seus filhos Ricardo e Joana, e um antigo rendeiro, homem de boas contas e de vida santa, quase tão velho na casa como qualquer das paredes dela. A mulher do lavrador morrera, Joana ausentara-se: a casa nesta noite ia estar habitada apenas pelo lavrador, Ricardo e o rendeiro.</p>
+<p>O mancebo esperou que todos em casa dormissem; depois, levantou um dos tijolos da parede e encontrou o que ali guardara: — um punhado de cabelos. Foi feroz então, foi formidável de atrocidade, a expressão que lhe tomou o semblante.</p>
+<p>— Ei-los! — exclamou. — Ei-los, os que me hão-de salvar!</p>
+<p>E soltou uma gargalhada dilacerante, diabólica. Tirou da cinta uma faca de mato, dirigindo-se, pé ante pé, ao quarto de seu pai... O velho dormia um daqueles sonos pesados, que na idade madura sucedem às grandes desgraças: o tal sono de Napoleão depois da batalha de Waterloo!</p>
+<p>Quem sabe, — pobre velho! se estaria nesse instante sonhando com a alma da defunta, e se a imaginação o ia conduzindo até ao período virente dos seus amores?</p>
+<p>Ricardo olhou tudo em redor de si, e teve medo: medo de estar só.</p>
+<p>Mas, a resolução veio súbita. O parricida ergueu o braço, e enterrou a faca de mato na garganta do ancião.</p>
+<p>Depois, — a enormidade do crime deu-lhe ânimo. O velho não soltara um só grito. Ricardo encostou o ouvido ao peito do assassinado, e não ouviu a mais débil pulsação.</p>
+<p>— Morto! — disse.</p>
+<p>Então, abriu uma das mãos do cadáver, e fez-lhe segurar o punhado de cabelos, que levava.</p>
+<p>Em seguida fechou a porta, e saiu.</p>
+<p>Desde muito tempo que Ricardo acalentava a ideia de matar seu pai. Queria deixar a aldeia e partir rico. O lavrador havia ganho fortuna, e a herança era agora a única cogitação do filho. Roubá-lo e desaparecer, seria declarar-se ladrão: mais valia que a morte do pai desse ao filho o direito da posse.</p>
+<p>A simplicidade campestre existe em toda a parte, talvez, — menos no campo. O aldeão pervertido deu o grito de emancipação do camponês. O aldeão das églogas morreu com elas, e a civilização deixou chegar a sua vara mágica até à choupana e à eira. Outrora, onde acabaram os pastores e as pastoras, começaram os aldeões. Agora, onde acabaram os aldeões, isto é, os rústicos, principiaram os lavradores, livres, astutos e ambiciosos.</p>
+<p>O mancebo meditara sobretudo na maneira de cometer o parricídio sem risco de o culparem. O quarto de Ricardo era também o do rendeiro: cada cama do seu lado. Ao sair do quarto de seu pai, as mãos do parricida iam ainda ensanguentadas; depois de se assegurar que o rendeiro dormia, agarrou-lhe a jaqueta estendida aos pés da cama e enxugou o sangue a sítios diversos dela, — mas que, ao rendeiro, não fossem fáceis de observar, quando, de madrugada, descuidosamente a vestisse!</p>
+<p>E, é esta a fatalidade! — os cabelos que o assassinado tinha numa das mãos, como arrancados ao assassino no furor da luta, eram do rendeiro! — porque Ricardo havia tido durante os últimos tempos o cuidado de guardar todos os cabelos, que encontrava no pente de que o rendeiro se servia, quando se penteava.</p>
+</div><div type="chapter"><head>V</head>
+<p>A orquestra interrompeu-nos.</p>
+<p>Quem é que não estremece aos primeiros acordes da introdução do terceiro acto do Roberto? A música ri de uma forma lúgubre: as rebecas parecem arremedar o delírio, as imagens extravagantes, e as alucinações da febre, de uma noite de Sabbat! Lembra a praia árida e sinistra, em que palpitam ao vento magros arbustos, enquanto as bruxas horrorosas, descarnadas, de sexo indeciso e duvidoso, dançam misteriosamente em redor de Macbeth, e atiram à sua alma esta máxima: — «O belo é horrível, o horrível é belo!»</p>
+<p>A história do homem pequenino e esta música de uma ironia lúgubre, produziam-me o efeito do sonho obscuro de uma alma perdida, um pesadelo no infinito, uma noite do inferno!</p>
+<p>A vista representa os rochedos de Santa Irena, paisagem sombria e montanhosa. Vêem-se as ruínas de um templo antigo, e a entrada para uns subterrâneos. Uma cruz de pau está no meio da estrada.</p>
+<p>Bertran não é propriamente o diabo: isto é, não tem a honra de ser o rei dos anjos caídos: é um diabo subalterno, um diabo inferior, um diabo de segunda qualidade, um pobre diabo! A licença com que veio à Terra expira nesse dia; dentro em poucas horas tem de abandonar o filho e voltar às trevas e às chamas, ao fogo e à escuridão, à alegria infernal e à dor maldita! Ouve-se o coro dos demónios, que diz: «Celebremos as festas do sombrio império! É preciso esquecer o Céu!...» E Bertran recorda-se nessa hora, com saudade, dos dias que passou na Terra, rápidos instantes de felicidade, de alegria, de amor, quando ele amava a condessa e era amado por ela. Os diabos têm às vezes coração, e a saudade é o seu maior martírio. Deve ser uma sensação excêntrica, a de se recordar, uma alma maldita, das terrestres aventuras, e ter saudades no Inferno das noites do teatro lírico, em que um óculo branco se lhe fixava, e a alva e delicada mão de uma senhora da sociedade tirava do bouquet uma flor para lhe enviar! Que lembranças não terão aqueles pobres condenados, das festas e prazeres da Terra, dos carinhos e amores, dos devaneios e triunfos da existência humana! E se é verdade que o amor traz o erro e o crime, não deve o Inferno estar cheio dos que amaram neste mundo?</p>
+<p>A ansiedade de Bertran é uma coisa de que não há memória: horrível e desesperada ansiedade de um pai, que só não terá de separar-se do filho, se o levar consigo para o reino doloroso, onde a esperança morre ao entrar! Viver insensível é o tormento desses desgraçados. Não amar, não poderem amar, não amarem nunca: tal é o seu destino; tal é o Inferno! Mas no coração de Bertran o arrependimento pareceu nascer, e Deus na sua bondade, ou na sua vingança talvez, permitiu-lhe que amasse... Desde esse dia cruel, a sua alma sentiu apenas por esse Roberto os receios, a felicidade, os tormentos da Terra: o filho tornou-se para ele vida e ser. Agora, porém, a meia-noite vai chegar, e a sorte de ambos depende apenas de Roberto aceitar o pacto imutável, que roube a sua alma a Deus!...</p>
+</div><div type="chapter"><head>VI</head>
+<p>— De maneira que — continuou o homem pequenino —, o rendeiro, pela madrugada, partiu para o trabalho, conforme o seu costume. Mal haveria, contudo, andado duzentos passos, quando Ricardo pôs a aldeia em motim, gritando como louco que haviam assassinado seu pai, e que prendessem o rendeiro, porque, em tão fatal circunstância, até do mais seguro desconfiava.</p>
+<p>O rendeiro foi despertado do silêncio do seu caminho por alguns gritos confusos, que o vento acarretava da aldeia, e, sentindo que a algazarra se aproximava, viu quase todos os habitantes do lugarejo em tão extraordinário alvoroço, que perguntou logo qual era a causa de tal motim.</p>
+<p>Depois de ouvir a notícia da morte do lavrador, o rendeiro caiu num espasmo. Ficou frio, branco, trémulo, convulso.</p>
+<p>E Ricardo disse para os do rancho:</p>
+<p>— Este homem empalideceu!</p>
+<p>E como o rendeiro permanecesse petrificado, de forma que nem falar podia, houve logo uma voz que exclamou:</p>
+<p>— Este homem nem se atreve a falar!...</p>
+<p>A multidão, que era, como todas as multidões, estúpida, repentina em juízos, e rápida em deliberações, gritou:</p>
+<p>— Agarre-se este homem!...</p>
+<p>Foi horrível então, porque o primeiro que se aproximou dele distinguiu logo na jaqueta as manchas de sangue.</p>
+<p>A turba examinou e convenceu-se de haver encontrado o réu. Como tigres, lançaram-se sobre o velho, que nem tinha força para resistir a um só.</p>
+<p>E Ricardo bradou desvairado:</p>
+<p>— Assassino! assassino!</p>
+<p>E a turba, conduzindo à cidade o velho rendeiro, cercado de maldições e de injúrias, gritava a uma voz:</p>
+<p>— Assassino! assassino! assassino!</p>
+<p>Os tribunais decidiram que este homem fosse condenado à forca. O povo retirou-se contente e aplaudiu a sentença. Ricardo, que assistira à sessão, foi apertar a mão aos jurados; e, erguendo os olhos ao céu, exclamou para os juízes:</p>
+<p>— Há um Deus que vê tudo, senhores doutores! Que tudo que é mau castiga; tudo que é bom esclarece!</p>
+<p>E, como era dia de finados, ele foi orar à igreja.</p>
+<p>O templo estava cheio. Os fiéis rezavam. Ricardo rezou também.</p>
+</div><div type="chapter"><head>VII</head>
+<p>— Dia de finados! — dizia Ricardo a si mesmo, espalhando a vista pela igreja, e vendo todos ajoelhados a ler em livros, e a bater nos peitos. Por quem se está orando aqui? Dize-me tu, loirita, loirita, que vais saindo e molhando os dedos na água benta: por quem rezaste tu? Por teu pai, que te faltou em pequena, e de quem já te não lembras? por tua tia, que morreu há dois anos, e de quem só recordas os ralhos com que te oprimia? por tua velha prima, aquela parenta afastada, — afastada porque era pobre, e todos os parentes pobres são parentes afastados! — que te serviu de aia desde os quinze anos, e não te deixava chegar à janela, quando, ao princípio da noite, ias deitar a linha à carta do namorado? Tu, por quem rezaste, morenita de olhos grandes e trança negra? Por teu irmão, o capitão, que só uma vez te deu um beijo, ao voltar da guerra? por tua mãe, que te batia em pequena por cada colher de açúcar que tu comias? por teu tio, o bacharel, que nunca te pegou ao colo para não se amarrotar? — E tu, minha triste e pálida, que orvalhas de pranto o teu livro de orações! é por teu marido que imploras a Deus? por teu marido, que tu enganaste? ou por teu marido, que te enganou? — Estais vós bem certas, bem seguras da consciência e da razão, de não ser ao acaso que rezais, sem caridade especial por uma ou outra alma, sem intenção por um ou outro morto? Juraríeis mesmo que não entra de nenhuma forma no sentimento da vossa prece nenhuma imagem, nenhuma memória, nenhuma lembrança dos vivos?... Sentis a vossa alma, nesta hora, toda recolhimento, toda religião, toda saudade? Fugiu de vós a faculdade do mal, durante estes segundos d’oração? Pobres rosas desmaiadas pela tristeza e pela dor, que perdestes a cor e o perfume, — não conservais vós ainda os espinhos que podem de novo dilacerar o coração que alguém vos der? Eis-vos graves, austeras, taciturnas. Há amargura no vosso véu de crepe; no vosso olhar, também. Estais vós chorando simplesmente pelos que estão mortos, ou pelos que mereciam estar vivos? É diferente: oh! se é diferente; por Deus! Orações pelas almas dos vossos defuntos, sem escolha e sem preferência!? Fazeis bem, talvez; toda a gente vos dirá, que seja esse o dever de bons cristãos: mas, dessa maneira, em que está a saudade nisso?! Mais logo, ao cair do dia, quando o sol se despedir de nós e as brisas da tarde varrerem o pó dos mausoléus, quando ninguém vos vir, ninguém vos lastimar, e tudo estiver sereno, quieto, melancólico, — quantas lágrimas cairão sobre um túmulo, que símplices coroas de perpétuas levará uma saudosa mão à morada solitária daqueles por quem agora estais rezando entre os vivos?</p>
+</div>
+</body>
+</text>
+</TEI>
