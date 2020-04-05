@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0107" xml:lang="pt">   
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Aventuras do sr. Cryptogamo: Edição para o ELTeC</title>
+<title level="s">Romance humoristico </title>
+<author>Pinto, Alfredo de Morais (1851-1921)</author>
+<respStmt>
+  <resp>Criação do HTML original</resp>
+  <name>Madalena Rato</name>
+</respStmt>
+<respStmt>
+<resp>Codificação segundo as normas do ELTeC</resp>
+<name>Diana Santos</name>
+</respStmt>
+</titleStmt>
+<extent>
+<measure unit="words">7989</measure>
+</extent>
+<publicationStmt><p>Added to ELTeC repo on <date>5-4-2020</date></p></publicationStmt>
+<sourceDesc><bibl type="digitalSource">
+<title>Aventuras do sr. Cryptogamo: romance humorístico</title> 
+<author>Alfredo de Morais Pinto</author>
+<publisher>Biblioteca Nacional de Portugal</publisher>
+</bibl><bibl type="firstEdition">
+<title>Aventuras do sr. Cryptogamo: romance humoristico</title> 
+<author>Pantarantula</author>
+<publisher>Typographia do Pimpão</publisher>
+<pubPlace>Lisboa</pubPlace> 
+<date>1899</date>
+</bibl></sourceDesc>
+</fileDesc>
+
+<encodingDesc n="eltec-1">
+<p/>
+</encodingDesc>
+
+
+<profileDesc>
+<langUsage>
+<language ident="pt-PT">português de Portugal</language>
+</langUsage>
+<textDesc>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+</textDesc>
+
+</profileDesc>
+<revisionDesc>
+<change when="2020-04-03">Adicionado à coleção ELTeC</change>
+</revisionDesc>
+</teiHeader>
+<text xml:lang="pt-PT">
+<front>
+<div type="titlepage"><head>Aventuras do sr. Cryptogamo</head>
+<p>Romance humoristico</p>
+<p>Ilustrado com 200 gravuras</p>
+</div>
+</front>
+<body>
+<div type="chapter"><head>Aventuras do sr. Cryptogamo</head>
+<p>Apesar de ter já completado a sua 36.ª primavera, o sr. Cryptogamo conserva os seus habitos da infancia no tocante á caça das borboletas -- o que vem confirmar a opinião da parteira que o aparou e que logo disse estar ali a semente d'um grande naturalista! </p>
+<p>Depois de jantar, o sr. Cryptogamo vae sempre dar a sua volta pelo jardim da Escola Polytechnica, onde passa a tarde a apanhar á rêde borboletas de todos os tamanhos e feitios, as quaes são logo espetadas por elle, com alfinetes, na copa do seu chapeu alto.</p>
+<p>De volta a casa, pela boquinha da noite, e depois de ter dado dois dedos de conversa á visinha capellista -- que tambem é doida por borboletas -- o sr. Cryptogamo recolhe ao seu escriptorio, despregando as borboletas do chapeu e espetando-as na sua collecção. </p>
+<p>Em seguida ao que, vae metter-se na cama, onde ronca de assobio até ao dia seguinte, sonhando toda a noite, com ineffavel delicia, que está espetando por diante e por detraz, por baixo e por cima, por aqui e por ali, formosas borboletas de todas as nacionalidades!</p>
+<p>Emquanto elle sonha com borboletas, Elvira, a sua noiva, sonha -- em delicias por igual ineffaveis e por ventura mais chorudas -- sonha com o que irá passar-se no dia do seu proximo casamento com Cryptogamo, o eleito do seu coração... </p>
+<p>Mas, quando acorda, ao romper do dia, todos esses sonhos se evaporam, como o fumo da chaleira, pois que Elvira, por mais que busque e apalpe, não encontra junto de si nem uma amostra do seu adorado Cryptogamo! Nem uma amostra!</p>
+<p>Ao levantar-se da cama, e procedendo á sua toilette, Elvira pensava, e com rasão, que Cryptogamo tinha mais de naturalista do que de apaixonado. </p>
+<p>O estylo das suas cartas, que ella lia soffregamente, era frio como a pedra do rio, regelando-lhe o coração e o mais que ella sentia em braza.</p>
+<p>Muitas vezes, passavam já 20 minutos da hora indicada para o rendez-vous matinal, e Cryptogamo ainda não tinha dado novas nem mandados.</p>
+<p>Era o caso que Cryptogamo, apesar de se ter levantado tarde, andava a passeiar no quarto, em fralda de camisa, contemplando as suas borboletas.</p>
+<p>A ideia do rendez-vous matinal levava-o por vezes a sentar-se, meditando por largo tempo, em trajos menores, sobre o casamento com Elvira.</p>
+<p>E, procedendo mentalmente como que a um exame de consciencia sobre os seus recursos physicos, perguntava a si proprio se daria um marido na conta...</p>
+<p>E, sempre em fralda de camisa, Cryptogamo pensava tambem se Elvira daria uma mulher igualmente na conta... para elle, só para elle... Aqui torcia a porca o rabo... </p>
+<p>D'uma vez, empunhando a sua rêde de caçar borboletas, Cryptogamo teve uma ideia salvadora do hymeneu: fugir, raptar-se a si proprio, dar com a taboa no etc. de Elvira...</p>
+<p>Vestiu-se, pôz na cabeça o seu chapéu alto ornamentado de borboletas, e escreveu a Elvira uma carta participando-lhe a resolução em que estava, de se pôr ao fresco...</p>
+<p>N'isto, batem á porta, agitando violentamente a campainha.</p>
+<p>Cryptogamo, desorientado, tem a imprudencia de berrar:</p>
+<p>-- Não estou em casa!</p>
+<p>Como resposta, a porta arrombou-se, impellida por um violento pontapé, e Elvira entra no quarto de Cryptogamo como um furacão, lançando mão da carta e ficando ao corrente dos obnoxios projectos de fuga do seu noivo ingratatão!</p>
+<p>Os primeiros momentos de explicações foram deveras tempestuosos! Elvira, de punhos cerrados. atirou-se a Cryptogamo, rugindo como um furacão, a ponto de elle imaginar que ia ser furado -- apesar de não ser cão.</p>
+<p>E, mettido entre a espada -- isto é, entre o pau da rêde das borboletas -- e a parede, Cryptogamo declarou renunciar aos seus projectos de fuga.</p>
+<p>Em vista do que, Elvira propoz logo uma passeiata de reconciliação, com peixe frito no Cabo Ruivo e decilitragem correspondente. </p>
+<p>De volta a casa e para mais apertar Cryptogamo no nó cego do amor, Elvira foi para o piano arripiar a visinhança, cantando o «Não te esqueças de mim, que te adoro!»</p>
+<p>Ao chá, Cryptogamo notou que a deliciosa bebida, que costumava saber-lhe a magnesia, ainda lhe estava sabendo peior -- tal era a disposição do seu espirito!</p>
+<p>Ao tasquinhar a ultima torradinha, Elvira, baixando pudicamente os olhos e tomando a côr envergonhada dos tomates, pediu a Cryptogamo que fixasse o dia do casamento.</p>
+<p>Como Cryptogamo começasse a engulir em secco, Elvira levantou-se como um foguete, fazendo a loiça do chá em cacos. Por fim, serenou, quando elle lhe prometteu casamento proximo. </p>
+<p>Na manhã seseguinte, Elvira provou o seu vestido ornamentado de flores de larangeira, como quem faz tirocinio para a obra...</p>
+<p>Por seu lado, Cryptogamo, pilhando-se só, faz a sua trouxa, sae de casa subrepticiamente e misca-se para Cascaes, á pata.</p>
+<p>Apenas se pilhou fóra de portas, Cryptogamo pesava menos 5 arrobas: era o peso de Elvira que tinha tirado de cima de si! </p>
+<p>Na praia d'Algés deu logo largas á sua paixão, correndo mais d'uma hora atraz d'uma borboleta manto real contra a qual sentiu ganas republicanas.</p>
+<p>Andando sempre vagarosamente, Cryptogamo chegou a Caxias já pela noite dentro; julgando vêr uma grande borboleta, lançou a sua rêde, apanhando um grande mocho. Signal de mau agoiro!</p>
+<p>Marchou até Paço d'Arcos, onde dormiu  ao relento, sobre as hervas; quando de manhã acordou, com os olhos ainda pegados pela ramella, lançou logo a rede, para apanhar uma borboleta sarapintada, e apanhou uma osga!</p>
+<p>No Estoril, cora a cabeça de todo desorientada pelas commoções que o tinham abalado durante os ultimos dias, equivocou-se novamente na caçada ás borboletas, deitando a rêde e o chapeu a um alferes de cavallaria e á prima -- que andavam por ali borboleteando..</p>
+<p>Finalmente, tendo conseguido chegar a Cascaes sem coisa de maior vulto, Cryptogamo alugou uma canôa e, em demanda d'um grande navio que ia barra fóra, disse adeus á patria de Camões com destino ao Novo Mundo.</p>
+<p>Uma vez installado a bordo do paquete, deparou-se-lhe uma mulher que, encostada á amurada, chorava a bandeiras despregadas.</p>
+<p>Cryptogamo, que tem um sensivel coraçao, approximou-se d'ella...</p>
+<p>Ceus! Essa mulher era Elvira! Elvira que, desorientada com a fuga de Cryptogamo, resolvera ir procural-o ás profundas dos infernos, tendo logo a sorte de encontral-o, sem necessidade de ir tão longe.</p>
+<p>Cryptogamo, receiando pela integridade das suas costellas o justo furor de Elvira, desfez-se immediatamente em desculpas, em protestos de vivo amor, em promessas d'uma fidelidade inalteravel como sardinhas em lata.</p>
+<p>Pelo sim, pelo não, Elvira obrigou-o a escarrapachar ali mesmo, em meia folha de papel sellado -- que ella trazia sempre comsigo, para o que désse e viesse, -- aquellas declarações e a respectiva promessa de casamento. </p>
+<p>Uma vez de posse do precioso documento, que Cryptogamo assignára com o coração mais pequenino do que uma pulga, Elvira começou tambem por seu turno a desfazer-se em amabilidades e suspiros.</p>
+<p>Durante horas passeiou com Cryptogamo na tolda do navio, apertando-lhe significativamente o braço e chamando-lhe a attenção para a belleza do sol, que elle se limitou a achar redondo como um queijo...</p>
+<p>E ella, sempre terna, apaixonada e poetica, diz-lhe que o amor é infinito como o oceano.</p>
+<p>E elle, sempre bruto, indifferente e prosaico, pensa para comsigo que o oceano é fastidioso como o amor.</p>
+<p>Então Elvira, vendo o escolhido do seu coração assim a modos com cara de aborrecido, intenta distrahil-o, para o que propõe que vão para a camara jogar a cabra-cega. Elle annue, com a sua fisgada, e eil-os jogando a cabra-cega.</p>
+<p>Quando chega a vez de Elvira fazer de cabra, Cryptogamo troca-lhe habilmente as voltas e, pé ante pé, esgueira-se sorrateiramente pela escada que conduz ao tombadilho. Elvira passa meia hora aos apalpões, sem conseguir apalpar Cryptogamo.</p>
+<p>Entretanto, este, a sós no tombadilho do navio, põe-se a sondar profundamente a sua triste situação: ali, no alto mar, sem ter meio de passar os butes áquella cabriona da Elvira, que quer casar com elle á viva força!</p>
+<p>Semelhante ideia fêl-o ganhar tal tedio por mulheres, que até respondeu com um palavrão indecoroso a uma gentil sereia que, debruçada fóra d'agua e mosirando o meio corpo de mulher, lhe fazia propostas obnoxias!</p>
+<p>E foi sentar-se á popa do navio, pensativo e merencorio, a scismar no paraiso que seria este mundo se se descobrisse um meio de passar sem mulheres para a propagação do genero humano; por exemplo: os homens pôrem ovos...</p>
+<p>Farta de andar a fazer de cabra-cega, Elvira tirou o lenço dos olhos, e, apercebendo-se da ausencia de Cryptogamo, correu ao tombadilho.</p>
+<p>Não tardou que cocasse o seu ingrato noivo a pensar na morte da bezerra e em posição de quem toma semicupio.</p>
+<p>Cryptogamo, ao bispal-a, encontra um unico meio de salvação: atirar comsigo ao mar!</p>
+<p>Elvira, como impellida por uma mola -- a mola do amor... -- salta atraz de Cryptogamo.</p>
+<p>O capitão do navio salta tambem, para salvar Elvira, por quem andava lamechas de desejos impuros.</p>
+<p>A tripulação salta para salvar o capitão, que nada como um prego.</p>
+<p>Os animaes domesticos saltam também,seguindo os seus donos.</p>
+<p>Os ratos saltam igualmente, por espirito de imitação.</p>
+<p>A este tempo, um navio de piratas dava abordagem ao paquete abandonado tomando posse d'elle.</p>
+<p>E, apenas senhores do paquete, apressam-se a salvar os naufragos, para lhes roubarem as roupas brancas.</p>
+<p>Vendo Elvira içada para bordo, Cryptogamo emprega todos os esforços para não ser pescado.</p>
+<p>Bebe tres almudes de agua, antes de conseguir saltar sobre um objecto que boiava.</p>
+<p>O qual objecto, por signal, parecia ter o diabo no corpo -- taes os movimentos que fazia!  </p>
+<p>E, a folhas tantas, empina-se, com ademanes de quem vae mergulhar... o que effectivamente fez.</p>
+<p>Depois, n'uma reviravolta enorme, o tal objecto em que Cryptogamo saltara -- e que era uma enorme baleia -- atira com elle ao ar e, abrindo a bocarra enorme, engole-o d'uma assentada!</p>
+<p>Cahindo no estomago do monstro, Cryptogamo lucta corajosamente por se esquivar á corrente digestiva, pois, se não lhe agradava ter sido comido, menos lhe sorria ainda ser digerido.</p>
+<p>Agarrando se a duas costellas da baleia, elle foi agradavelmente surprehendido descortinando um doutor, que, agarrado a outra costella, se entretinha a pescar á linha na corrente digestiva. </p>
+<p>Entabolou conversação, referindo as suas aventuras, e o doutor relatou que se achava ali ha coisa de tres mezes, e que procurava em vão pescar o chinó que lhe cahira da cabeça.</p>
+<p>Nos intervallos das digestões da baleia, os dois companheiros descem aos ilhotes do estomago do cetaceo, onde se entreteem a jogar o chinquilho com cascas d'ostras, a meios litros, como usavam fazer no Cabo Ruivo. Assim passam bons bocados, matando saudades do passado. </p>
+<p>Mas, quando chega o repasto da baleia, os dois amigos, fugindo apressadamente, lançam mãos ás costellas do cetaceo, marinhando por ellas e indo pôr-se a salvo no seu esconderijo, afim de não serem igualmente digeridos.</p>
+<p>Ora, n'uma bella manhã, quando a baleia comia o seu almoço, os dois amigos viram entrar pelo estomago dentro -- o estomago da baleia, é claro -- juntamente com outros comestiveis, dois missionarios, um tocador de rabeca e uma moçoila do Minho, d'uma belleza extraordinaria.</p>
+<p>Graças á entrada dos novos hóspedes, o estomago da baleia transformou-se n'um retiro muito aprazivel: emquanto os dois missionários discutiam theologia com o doutor, o homem da rabeca tocava polkas e Cryptogamo dançava com a formosa minhota.</p>
+<p>Quando chegou a noite, Cryptogamo, com ella fisgada, propoz á gentil minhota que partilhasse com elle o confortavel coio entre as costellas da baleia -- o que a formosa rapariga acceitou, baixando os olhos e fazendo-se rubra como um tomate.</p>
+<p>No dia seguinte, de manhã, Cryptogamo perguntava a si proprio se não teriam prescripto os compromissos tomados para com Elvira...</p>
+<p>E concluía por reconhecer que estavam mais do que prescriptos, e, além d'isso, era provável que não a tornasse a vêr... </p>
+<p>Entretanto, uma coisa preoccupava Cryptogamo: se Elvira appareceria, um bello dia, sã e salva, apesar de ter cahido em poder dos piratas...</p>
+<p>Receioso de que tal acontecesse, Cryptogamo tomou uma resolução energica: foi ter com um dos missionarios e pediu-lhe que o unisse, pelos laços do casamento, á bella minhota dos seus enlevos.</p>
+<p>O missionario annuiu gostosamente, e, nesse mesmo dia, ás duas horas menos um quarto da tarde, realisou-se o consorcio dos dois noivos, com a assistencia de toda a gente que povoava o interior da baleia.</p>
+<p>Depois de terminada a ceremonia, Cryptogamo, não podendo offerecer aos convidados o copo de agua do estylo -- em rasão de não ter o Ferrari ali á mãe - contractou o tocador de rabeca, offerecendo a todos um sumptuoso baile nupcial, com cotillon, etc, etc.</p>
+<p>Iam os convidados a retirar, muito penhorados com a amabilidade dos donos da casa, quando a baleia, agoniada com os pinotes que lhe tinham dado no bandulho, começou a sentir uma furiosa indigestão, como se houvesse comido lulas de caldeirada.</p>
+<p>Muito agoniada, a baleia começou a dar arrotos como um abbade depois de jantar de festa; e, não podendo aguentar por mais tempo a azia que lhe tinham produzido os pinotes no estamago, teve uma horrivel nausea, vomitando parte do que tinha lá dentro.</p>
+<p>N'essa parte vieram os dois missionarios, o tocador de rabeca e a formosa minhota, os quaes, por uma d'aquellas felicidades de burro, foram avistados de bordo do brigue napolitano Vesuvio, cujo capitão mandou logo arriar um escaler, que recebeu os naufragos a seu bordo.</p>
+<p>Entretanto, Cryptogamo, que, juntamente com o doutor, não fôra incluído no vomito da baleia, fica debulhado em lagrimas e inconsolavel como um noivo a quem arrebatam a noiva no melhor da primeira noite do casamento. Positivamente inconsolavel, o desditoso Cryptogamo!</p>
+<p>Afim de lhe distrahir as ideias e alliviar as maguas, o dr. propôz nova partida de chinquilno, que Cryptogamo acceitou para não se mostrar desmancha-prazeres. Mas, logo ao começo, uma das malhas foi acertar no figado da baleia, que atirou um pinote, como um pôtro a quem chegam um par de esporadas.</p>
+<p>E, palavras não eram ditas, isto é: pinote não era dado, quando as tripas do cetaceo começaram a tremer como varas verdes, assim á laia de pessoa que viu bicho, ou coisa que lhe metteu susto, como um dragão de tres linguas, um soldado da guarda municipal, etc...</p>
+<p>Eis o que succedêra: a baleia acabava de ser harporada por alguns pescadores que, a bordo d'um lanchão, andavam á pesca d'aquelles valiosos cetaceos. Uma vez firme o harpeu, os tripulantes do lanchão começaram a remar vigorosamente em direcção á costa, levando a baleia a reboque.</p>
+<p>Encalhado o monstro enorme sobre a areia, e atacado immediatamente a golpes de machado, qual não foi a surpreza dos pescadores, vendo assomar á bocca da baleia, como quem chega ao parapeito de uma sacada, dois estrangeiros muito bem vestidos e com um sorriso a bailar-lhes nos labios?!...</p>
+<p>Espatifada a baleia em bocadinhos, o dr. teve a ventura de encontrar o seu querido chinó no intestino grosso do monstro, ao passo que Cryptogamo achava no intestino delgado o duplicado da sua obrigação de casamento que Elvira lhe fizéra assignar.</p>
+<p>N'isto, approxima-se a noite, e, como estivesse na região polar de vestidos muito á fresca, não foi sem saudades que o dr. se lembrou do conchego do ventre da baleia - e Cryptogamo item, com o contrapeso da bella minhota...</p>
+<p>De começo, o frio horrivel que dominava n'aquellas paragens apenas se fez sentir com violencia nas pontas dos respectivos narizes de Cryptogamo e do doutor. Não tardou, porém, que lhes alastrasse das pontas para o resto, d'ahi para a cara, pescoço e por ali abaixo, até os gelar completamente!</p>
+<p>Entretanto, os pescadores da baleia, tendo acabado de lhe extrahir o oleo, para venderem como azeite doce, e de lhe arrancarem as barbas, para as utilisarem em espartilhos de senhora e varetas de chapeus de chuva, embarcaram o doutor e Cryptogamo, completamente gelados, para os transportarem á Noruega. </p>
+<p>Uma vez a bordo da baleeira, penduraram Cryptogamo e o doutor no mastro da mezena, como se fossem dois chouriços postos ao fumeiro; Cryptogamo a linguiça, e o o doutor o paio de Arrayollos.a</p>
+<p>Mas, tendo a tempestade atirado para aquellas paragens o brigue argeliano a que nos referimos nos capitulos antecedentes, os baleeiros fizeram mão baixa em tudo de valor que encontraram a bordo, incluindo a equipagem, que se achava gelada, como o doutor e o Cryptogamo, e que elles contavam vir vender a Portugal, aos amadores de autos de fé.</p>
+<p>Os marinheiros da baleeira ficaram muito surprehendidos de encontrar, entre os moiros gelados, uma mulher, tambem gelada, e que parecia christã: era Elvira. Deixaram-na ficar no tombadilho, e transportaram todos os moiros para o fundo do porão, onde os empilharam como arenques.</p>
+<p>Em cima deixaram apenas o moiro capitão, amarrado ao mastro da mezena com Elvira e Cryptogamo. Mas, um marinheiro teve a imprudencia de accender o cachimbo ao pé do mastro, pegando fogo ás barbas do moiro, e resultando o calor desgelar o olho direito de Elvira e Cryptogamo. </p>
+<p>O desgelo prolongou-se a outras partes do corpo; e Elvira, vendo as barbas do visinho a arder, quiz deitar as suas de molho -- para o que achou providencial o seu encontro com Cryptogamo... Este, porem, entendeu que era melhor fingir que continuava gelado em todas as partes...</p>
+<p>Elvira desprende do mastro o escolhido do seu coração. Este, sempre a fingir-se gelado, cae em cima d'ella, fazendo-a soltar um -- ai! que tanto podia ser de susto como de prazer, visto como qualquer dos referidos «ais» se escreve com as mesmas lettras... </p>
+<p>Ao cabo de alguns minutos, o desespero de Elvira tinha chegado ao seu auge, reconhecendo que, apesar dos seus esforços, virando Cryptogamo para cima e para baixo, elle se conservava hirto, não conseguindo dobrar-lhe nem a cabecinha do dedo minimo!</p>
+<p>Pegou n'elle ás costas, levou-o para um beliche, tentou aquecêl-o com beijos, com caldo da panella, com palavras quentes, com grogs de geropiti; mas Cryptogamo, sempre a fingir-se gelado, continuava a não dar accordo de si!...</p>
+<p>Elvira não desanimava, entretanto, no empenho de aquecer o escolhido do seu coração: fez-lhe cocegas debaixo dos braços; fez-lh'as na ponta do nariz; fez-lh'as por toda a parte -- e Cryptogamo sempre frio, frio, como a pedra do rio!</p>
+<p>Sempre insistindo no seu proposito, Elvira improvisou um braseiro, amarrou Cryptogamo ao espeto de ferro, accendeu a lenha e, dando regularmente á manivella e fazendo do noivo das suas entranhas uma segunda edição do S. Lourenço, assou-o de costas, assou-o de frente, assou-o de lado -- sem que o bruto a coisa alguma se movesse!</p>
+<p>A este tempo, tendo o navio chegado a 54º de latitude, o calor começou a penetrar no fundo do porão, e os piratas algerianos principiaram a desgelar a pouco e pouco.</p>
+<p>Uma vez desgelados de todo, e armados aos seus terriveis yatagans, subiram ao convez, massacrando toda a tripulação da baleeira.</p>
+<p>Accudindo ao medonho ruido, Elvira foi logo agarrada por um velho turco, que começou a lamber-se como quem tinha fominha de semanas.</p>
+<p>Mas Elvira,que era tesa -- e que não se achava n'esse instante positivamente em maré de carvoeiro, para chalacear com turcos de maior idade -- agarrou o turco pelas barbas, que era o que elle tinha de mais farto e de mais comprido, e, volteando rapidamente, como quem joga o corropio, largou-o por fim, indo elle parar a uma distancia de duas milhas a sudoeste.</p>
+<p>O velho turco mergulhou de cabeça para baixo na agua fria -- impressão tanto mais desagradavel, quanto elle esperava o contrario, na quentura de valle de lençóes.</p>
+<p>N'esta occasião, Cryptogamo, sentindo o cheiro activo a carne assada que se exhalava das suas costas e suburbios, começou a suspeitar de que se achava completamente desgelado havia mais de tres quartos d'hora...</p>
+<p>Elvira, chegando n'esse instante, explicou aos piratas que Cryptogamo era um christão que ella estava grelhando para o almoço.</p>
+<p>Os turcos resolveram em conselho poupar a vida ao noivo de Elvira, com a condição de ali se converter á religião d'elles, substituindo o seu flammante chapeu alto pelo turbante oriental -- ao que o pobre diabo accedeu humildemente.</p>
+<p>Voltemos ao doutor, de quem não nos occupamos ha bastante tempo: Sendo o ultimo a desgelar, o doutor viu-se grego para conseguir desamarrar-se do mastro.</p>
+<p>Uma vez desamarrado e pondo o pé no tombadilho, o doutor ficou do bocca aberta, ao notar que o navio estava cheio de turcos, em logar de baleeiros!</p>
+<p>E, ao apparecer-lhe um turco, parecido, como se parecem duas gottas de agua, com o seu amigo Cryptogamo, o doutor recebeu tal commoção no cerebro que cahiu desamparadamente, em termos de fazer um rombo formidavel nos fundilhos dos calções!</p>
+<p>Tudo, porém, lhe é posto em pratos limpos; visto o que, o doutor, paragarantia das suas costellas e outras partes mimosas do corpo, resolve illudir a boa fé dos turcos, pondo egualmente um turbante.</p>
+<p>Entretanto, Elvira, que não perde ensejo de assegurar a realisação do seu sonho doirado, exige do escolhido do seu coração que lhe assigne, deante de testemunhas, uma promessa de casamento immediato, apenas puzessem pé em terra firme.</p>
+<p>Elle, que já tinha casado nos intestinos da baleia, fica tremendo, só com a ideia de vir a praticar o nefando crime de bigamia ...</p>
+<p>Mas socega-o a esperança de que a bella minhota já tivesse esticado o canelim -- além da benevolencia da lei turca, para o caso...</p>
+<p>D'est'arte, o almoço de reconciliação foi deveras encantador, trocando-se brindes enthusiasticos entre os alegres commensaes. E o doutor, achando Elvira assás provocante, começa a dirigir-lhe amabilidades tocando-lhe com o pé.</p>
+<p>Por seu lado, Elvira, coquette como todas as mulheres, e com a ideia de acirrar a paixão de Cryptogamo, provocando-lhe ciumes, concedeu ao doutor alguns sorrisos amaveis, temperados com significativos beliscões so sangradoiro do braço...</p>
+<p>Proseguindo no seu papel de D. Juan, o doutor arrastou do cemente Elvira para junto d'um banco, no qual se sentou, sentando-a a ella nos joelhos. O outro simulava nada vêr, fingindo-se entretido a caçar borboletas.</p>
+<p>O que se passou no tal banco não é da nossa conta, nem da do leitor, por isso saltaremos em claro. . Apenas registraremos que Elvira offereceu ao doutor uma rosa, já aberta, significando ser «recordação do que se passára...»</p>
+<p>Cryptogamo, que não perdera pitada, tomou o doutor de parte, fazendo-lhe sentir que era indespensavel reparar a falta, casando com Elvira.</p>
+<p>O doutor, que ficára fervendo em pulgas, por vêr repetida, com mais socego e mais detalhadamente, a cavaqueira do bemaventurado banco, foi, acompanhado de Cryptogamo, pedir officiail, pessoal e solemnemente a mão de Elvira -- que não queria acreditar no que os seus olhos estavam vendo e os seus ouvidos ouvindo...</p>
+<p>Manifesta-se uma crise aguda: EIvira atira um biscoito ao doutor e outro a Cryptogamo, pregando com ambos de cangalhas, e salta em cima d'elles n'um violento accesso de furor, executando piruetas, como se estivesse a dançar o pas-de-quatre na Academia Fenians!</p>
+<p>Depois, suffocada pela raiva, é acommettida d'um chilique, cahindo desamparadamente sobre os dois amigos, os quaes, não se atrevendo a levantar-se, confessam ali á puridade, ao ouvido um do outro, que Elvira estava mais pesada n'aquella occasião do que em outras antecedentes...</p>
+<p>Ao cabo de meia hora de espectativa benevola, vendo que Elvira não tugia nem mugia, os dois amigos resolveram pôr-se em pé, o que realisaram com toda a prudencia e circumspecção, afim de evitar que Elvira voltasse novamente aos fagotes...</p>
+<p>E, convencidos de que Elvira tinha espichado o canelim de vez, pegaram n'ella em charola, um por baixo dos braços e outro pelas curvas das pernas, e foram-na conduzindo para a amurada do navio, no proposito benemerito de atirar com ella para a mesa d'almoço dos besugos -- que são doidos pela petisqueira de carne feminina...</p>
+<p>Mas, tendo Cryptogamo feito cocegas nos sobaquinhos de Elvira, e o doutor secundado a brincadeira nas barrigas das pernas aquella estrebuchou violentamente, o que fez com que o caçador de borboletas fugisse espavorido, deixando-a a contas com o doutor.</p>
+<p>Seguidamente, Elvira torna a si do desmaio que a prostrára, e, atacada d'um violento faniquito, começa a pernear nos braços do doutor, mimoseando-lhe as trombas com uma saraivada de galhetas que lhe fez vêr as estrellas ao meio dia.</p>
+<p>E, empinando-se como uma egua quando lhe cheira a cavallo, a endemoninhada rapariga arrancou n'um repellão a chorina do doutor, soccando-lhe a careca como quem socca um moleque transviado no cumprimento dos seus deveres!</p>
+<p>O doutor não percebia patavina do que lhe estava acontecendo; mas, pelas caricias de Elvira, não deixava de experimentar uma tal ou qual consolação, meio physica, meio moral - ou immoral, para fallarmos com mais propriedade - quando sentia ao correr do pello a mão setinosa da suggestiva Elvira. Por fim, succumbindo á lucta, acabou por cahir debaixo d'ella.</p>
+<p>Entretanto, Cryptogamo, que não nutria pelas festas de Elvira os farnicoques que agitavam o doutor, corria como um maluco no tombadilho do navio, n'um circulo vicioso, em volta da ponte, como um cavallo de voltigeuse ou um boi de nora, em cata d'uma sahida que não lograva encontrar.</p>
+<p>A este tempo, Elvira, tendo-se desenvencilhado finalmente do doutor - e deixando-o um tanto perplexo sobre a suavidade das ternuras femininas - lançou-se a passos agigantados em perseguição de Cryptogamo, correndo atraz d'elle em volta da ponte, no mesmo circulo vicioso de boi de nora ou cavallo de voltigeuse.</p>
+<p>O doutor, vendo Elvira n'aquellas correrias em volta da ponte do navio, e continuando a sentir pela picante femea uma d'aquellas attracções fataes que nem o tabefe tem a virtude de conseguir esfriar, desata a correr atraz d'ella, como ella, por seu turno, corria atraz de Cryptogamo.</p>
+<p>O turco, capitão do navio, parecendo-lhe singular que um homem da gravidade do doutor, e careca de todo, andasse assim com o freio nos dentes no tombadilho do navio, quiz inquirir a causa de tal dislate e, lésto como um gamo, lançou-se a toda a brida nas peúgadas do doutor, seguido por toda a tripulação do barco, á qual egualmente fizera especie aquella subita veneta do seu comandante.</p>
+<p>Os animaes que iam a bordo, não menos surprehendidos com semelhante corrida, determinaram-se a tomar parte na frescata e, bois, vaccas, cavallos, eguas, cães, cadellas, coelhos, coelhas, porcos, porcas, cabras e. . maridos, lançou-se tudo freneticamente na mesma carreira vertiginosa e circular!</p>
+<p>A passarada -- perús, peruas, gallos, gallinhas, patos, patas, pombos e pombas, também mordidos de natural curiosidade, começaram voando no mesmo circulo vicioso.</p>
+<p>A bicharia meúda, ratões, ratazanas, ratos e ratinhos, não quizeram ficar atraz n'esse concurso de velocidade e acompanharam o movimento geral em carreira desordenada.</p>
+<p>Os proprios moveis e utensilios de bordo, taes como mezas, cadeiras, pipas, candeeiros, cestos, caçarolas, escovas de fato, de unhas, de dentes, ferros de frisar, tesoiras, castiçáes, travesseiros, almofadas, jarros, bacias de dia e de noite, pratos, guardanapos, vassoiras, martellos, facas, navalhas, o diabo a quatro, seguia tudo o movimento rotativo de pessoas e animaes!</p>
+<p>N'estas circumstancias, succedeu o que era facil de prever: o navio, impulsionado por; aquella força rotativa produzida no seu convez e que, minuto a minuto, augmentava vertiginosamente, interrompeu a rota que seguia e, estacionando em pleno mar -- como se o mastro grande lhe atravessasse o porão, indo espetar-se nos antipodas, á laia de eixo collossal -- começou a girar sobre si mesmo, corro um carroussel do bazar dos tres vintens!</p>
+<p>A este tempo, o bey de Argel, que se achava a tomar o fresco, estendido á beira-mar e fumando no seu cachimbo de oiro e ambar, artisticamente encimado por um gorducho Cupidinho em porphyro lavrado, apercebeu, muito ao longe, um turbilhão singular no meio das ondas, semelhando como que um pião gigantesco a dançar ao lume d'agua...</p>
+<p>O velho bey, não comprehendendo absolutamente nada do que os seus olhos estavam presenceando, e muito perplexo sobre se o phenomeno em questão seria effectivamente um phenomeno authentico, sem confeição, ou se apenas uma illusão dos seus sentidos -- talvez provocada pela pinguinha a mais que elle bebera á sobremeza -- mandou chamar todos os sabios da sua terra, intimando-os, sob pena de morte, a que lhe explicassem o phenomeno.</p>
+<p>Os sabios de Argel, que, em recursos de mioleira, se parecem espantosamente com todos os sabios do resto do globo, ficaram algo atomatados com aquella da explicação do phenomeno, que lhes punha as cabeças periclitantes sob a espada de Damocles do carrasco, e, munidos dos seus oculos de grande alcance, passaram tres noites com tres dias na observação do mysterioso caso.</p>
+<p>Ao cabo d'esse tempo, achando-se o bey na sala do throno, commodamente estatelado sobre almofadões de pennas de periquito, entraram os magnos sabios, apresentando ao monarcha um extenso relatorio de legua e meia de comprimento e escripto em arabe do mais puro, convenientemente salpicadinho de erros grammaticaes, e que até pareceria um discurso da corôa se, em vez de arabe, tivesse sido escripto em grego. N'esse relatorio declaravam os sabios, por unanimidade, que o phenomeno em questão era um meteoro de primeirissima agua, o qual presagiava a sua magestade innumeras felicidades, longa vida e a morte de todos os seus inimigos. O bey gratificou cada sabio com meio sequim, em cedulas.</p>
+<p>Emquanto isto se passava, o navio, com a cabeça tonta de fazer piruetas, vinha, aos bordos, encalhar nas costas de Argel, onde, momentos depois, toda a tripulação desembarcava, encaminhando-se para o interior da cidade, todos muito agoniados, em resultado do sarilho em que tinham andado, a fazer SS pelas ruas, tomando-as de lés a lés, como se houvessem apanhado a mais imperial das bisgornias, na historia das camoécas imperiaes.</p>
+<p>O velho bey, sabedor do que se passava, ordenou immediatamente que fossem enforcados todos os sabios -- «que é para outra vez não se enganarem nas suas predições!» commentou elle solemnemente. Mas, na sua generosa clemencia, poupou a vida ás mulheres, deixando-as reservadas para seu uso particular...</p>
+<p>Os officiaes do bey, tendo conhecimento de que entre os passageiros do barco naufragado se encontravam tres christãos, correram a tomar conta d'elles, deitando logo as mãos, em primeiro logar, está claro, á appetitosa Eivira...</p>
+<p>Cryptogamo, tendo-se dado por naturalista, foi comprado em leilão por Abul-Hassan, que o adquiriu para lhe plantasse  as alfaces, lhe catasse as couves e lhe tratasse dos tomates...</p>
+<p>O doutor, tendo-se dado por homem de lettras, foi comprado, tambem em leilão, por Mustachá, que o adquiriu para lhe confiar o cargo de preceptor dos seus filhos. A primeira licção correu ás mil maravilhas, ensinando o doutor aos rapazelhos todos os segredos das linguas mortas e promettendo-lhes entrar nos mysterios das linguas vivas quando fosse preceptor das manas...</p>
+<p>Mas, á segunda licção, os jovens Mustachá, um pouco enfastiados de gregos e latins, propuzeram ao seu preceptor uma partida de jogo do machacaz , saltando sobre os lombos do sabio doutor, com a mesma sem ceremonia com que saltariam sobre os lombos d'um burro, e dizendo-lhe: «adivinha, machacaz, quantos dedos tens atraz» e acompanhando a toada com irreverentes palmadinhas no trazeiro!</p>
+<p>Á terceira licção, os garotêtes, tendo ganho com o seu professor uma confiança desmarcada, resolveram vadiar do jogo do machacaz para a brincadeira dos gallegos, e, armados com as almofadas e os travesseiros da cama, fazem rabiar o doutor, atirando-se a elle ás saccadas e dizendo-lhe galhofeiramente: -- Baia! Xuan da Redondella! que nunca tu rabiaras! hon!</p>
+<p>O pae Mustachá vem surprehender aquella patuscada; reprehende severamente o doutor por andar de brincadeira com os pequenos, prevenindo-o de que, se d'ahi a dois dias os meninos não soubessem a physica na ponta da lingua, o doutor seria açoitado na praça publica, sendo depois empalado em familia, com um chifre de carneiro dos mais retorcidos e encorpados!</p>
+<p>O doutor, horrivelmente impressionado com a ideia de ser empalado, adoptou um methodo de ensino que lhe pareceu seguro: ensinar um rapaz por cada vez, emquanto o outro descançava das fadigas, de cocoras aos pés do mestre.</p>
+<p>Infelizmente, o methodo falhou, porque os rapazes, levadinhos de todos os diabos, combinaram entre si a seguinte formidavel partida: emquanto um fingia prestar a maior attenção ás predicas do doutor, o outro, simulando repoisar aos pés do mesmo, aproveitava o ensejo para o amarrar por um pé, e com uma vigorosa corda, a uma das traves do soalho. Assim se fez; e com tal limpeza, que o doutor apenas se apercebeu do succedido quando os dois puxaram a corda ás mãos ambas!</p>
+<p>Uma vez preso o doutor, pelo pé, como um ignobil papagaio, os dois garotêtes miscaram-se para o jardim, deixando o infeliz preceptor a gritar á janella como um possesso, na natural agonia de quem sente o chavelho do algoz suspenso - não propriamente sobre a sua cabeça, - para os effeitos da empaladella, que o Mustachá lhe havia promettido.</p>
+<p>Tendo berrado inutilmente a pedir socorro, o atomatado doutor tomou o partido de se deitar de gatinhas, a puxar pela corda com toda a força, na esperança de que ella quebrasse, libertando-o d'aquelle obnoxio captiveiro e permittindo-lhe pôr-se a salvo da tenebrosa empaladella.</p>
+<p>Puxou o doutor com tanta gana, que aconteceu o que era de prevêr: a corda não quebrou, porque era rija, mas partiu-se a trave a que ella estava amarrada, resultando abater o predio d'aquelle lado e vindo Mustachá, que se achava na agua-furtada, parar cá abaixo aos trambulhões. O doutor, duplamente receioso de ser duplamente empalado, correu á janella atirando-se d'ella abaixo.</p>
+<p>Por desgraça, no momento de transpôr o peitoril, esqueceu-se de que tinha a trave amarrada ao pé; e aquella, atravessando-se nas hombreiras, deixou o doutor pendurado como um porco á porta do salchicheiro.</p>
+<p>Vendo isto os pequenos Mustachá, e receiosos da tareia paternal, correram em soccorro do doutor, libertando-o d'aquella posição de pernas para o ar -- muito agradavel n'outras condições, mas, no caso presente, verdadeiramente insupportavel.</p>
+<p>O doutor, apenas se pilhou com pé em terra, deu immediatamente ás de Villa Diogo, sem se importar com a trave que levava amarrada ao pé, e vendo apenas, em medonhas allucinações, um exercito de chifres retorcidos e todos em bellas disposições de lhe entrar pelo local apropriado ás empaladellas...</p>
+<p>Emquanto ao doutor succediam estas aventuras -- que fazia Cryptogamo? Passava os dias a plantar saladas e a catar tomates, sob a activa vigilancia de Tapesalé, o guarda-portão de Abul-Hassan, que o mimoseava com meia duzia de bastonadas sempre que elle pisava algum pepino ou esborachava algum tomate.</p>
+<p>Ao passo que o doutor e Cryptogamo passavam estes maus bocados, Elvira, pelo contrario, insinuára-se de tal fórma no coração, no figado, no bofe e na moella do bey, que elle accedia a todos os caprichos da gaiata.</p>
+<p>Entre esses caprichos, tinha ella, como mais frequente, o de brincar com o punhal do velhote, pretextando aguçar-lhe a ponta. E, um bello dia, tendo verificado que a ponta estava na conta, n'uma heroicidade de Judith, fez do pobre bey uma segunda edição do Holophernes!...</p>
+<p>Tendo sangrado o infeliz dey, como quem sangra uma gallinha para a bella canja, e depois de verificar que elle já nao tinha pinga de sangue na algibeira, nem nas proximidades, Elvira saiu pé ante pé, para não despertar o morto, e, uma vez cá fora, desatou a fugir como quem leva um foguete... a traz de si...</p>
+<p>Cryptogamo, bispando ao longe a figura de Elvira, correndo direita a elle, abandonou a sua faina de hortaliceiro, e, mais atomatado do que os proprios tomates com que estava abarbado, marinhou por um grande tronco d'arvore.</p>
+<p>De nada lhe valeu a esperteza, porque Elvira cocou-o logo, empoleirado lá em cima, e intimou-o a que descesse sem perda de tempo e a acompanhasse na fuga, antes que os guardas do palacio se apercebessem do assassinato do bey.</p>
+<p>Cryptogamo recusa-se terminantemente a cumprir a intimação de acompanhar Elvira; e, juntando á palavra o gesto, esfórça-se por occultar-se no interior da ramagem, assobiando docemente, a imitar o chilrear dos passaros, na esperança de que Elvira o tome por um pintarrocho.</p>
+<p>Mas este ardiloso expediente não serviu senão para exasperar Elvira, provocando-lhe uma crise de nervos tão violenta, que Cryptogamo teve de fugir para o mais alto dos troncos, receioso de que ella lhe deitasse as unhas.</p>
+<p>Entretanto, o doutor, a tremer de se vêr empatado, continuava fugindo atravez dos campos, sempre com a trave agarrada ao pé. Por fim, as continuadas fricções da trave sobre o solo, acabaram por aquecel-a a ponto de incendiar-se.  </p>
+<p>Não tardou que o fogo da trave se communicasse á relva, da relva ao matto, do matto aos pinhaes, dos pinhaes ás florestas, obrigando os animaes ferozes a saírem dos seus antros e a correrem espavoridos para o povoado, em cata d'um abrigo que os puzesse a salvo de fazerem concorrencia desleal ao martyr S. Lourenço.</p>
+<p>Os habitantes dos campos fugiram em direcção a Argel, transportando os seus haveres mais preciosos, como oiros, pedras preciosas, roupas brancas, sogras, etc.</p>
+<p>Em Argel não se aperceberam do que se passava, porque estavam entretidos com a eleição do novo bey, - feita pelo processo dos de cá: ao tiro e á facada.</p>
+<p>Cryptogamo, que se achava empoleirado no cucuruto da arvore, apercebendo-se do incêndio, e receioso de morrer assado no espeto, resolveu-se  emfim a acompanhar Elvira.</p>
+<p>E ambos se puzeram em fuga, a toda a largura das pernas, e seguidos do atomatado doutor, que continuava a arrastar atraz de si a trave incendiada que trazia presa ao pé. O desgraado, de minuto para minuto, augmentava de agonias com a ideia de morrer empalado. Só á lembrança dos chavelhos retorcidos de carneiro se lhe apertava o coração -- bem como as outras partes, mais directamente interessadas no assumpto.</p>
+<p>Com o vento, que soprava de terra, as labaredas estenderam-se até ao mar, trazendo na sua frente, espavorida, toda a população de Argel e territorios circumvisinhos, incluindo a respectiva bicharia! Os miserandos, tendo de escolher entre o fogo e a agua, optaram por esta, lançando-se todos ás salsas ondas. Apenas Cryptogamo, Elvira e o doutor conseguiram pôr-se a salvo de morte macaca, mercê da trave que aquelle ultimo conservava no pé, e sobre a qual se refugiaram jubilosos, tendo o doutor a satisfação de dirigir chalaças e piadas ao velho Mustachá que, de mãos postas e lagrimas nos olhos, lhe pedia um logarsinho a seus pés.</p>
+<p>Continuando o vento a soprar de terra, a trave foi impellida para o mar largo, levando em cima os tres naufragos da vida airada. A folhas tantas, isto é, a ondas tantas, porque no mar não ha folhas, os desditosos avistaram ao longe um navio, e deram-se pressa em chamar a attenção do gageiro, agitando furiosamente os seus lenços de assoar, que nunca tinham abandonado -- por causa das moscas.</p>
+<p>Os signaes foram apercebidos de bordo do navio, que era o Vesuvio, brigue napolitano, e o commandante deu-se pressa em mandar arriar um escaler, que foi em soccorro dos naufragos, com tão boa vontade dos marinheiros remadores quanto era certo que elles tinham visto de longe as saias de Elvira agitadas pelo vento, sendo igualmente certo que havia mais de tres mezes que, sobre as aguas do mar, não cheiravam nem o cós d'uma saia... Em menos de cinco minutos estavam todos a salvamento.</p>
+<p>Apenas chegados a bordo, Elvira, que tinha apanhado um resfriamento no baixo ventre, complicado com o aggravamento d'um callo molle, correu logo a metter-se era valle de lençóes, exigindo ternamente do seu mais que tudo que lhe fizesse companhia no quarto, mas sem tirar nem mesmo o turbante, para não dar pasto ás más linguas...</p>
+<p>Como Cryptogamo se mostrasse um pouco embezoirado, ella intentou desanuviar-lhe o espirito, pintando-lhe com as mais formosas côres a scena do proximo desembarcamento, seguido do bello consorcio de ambos, ali mesmo ao pintar da faneca...</p>
+<p>Emquanto Cryptogamo ruminava projectos tendentes a libertal-o d'aquella carraça que o não deixava, Elvira,com uma immodestia revoltante, perguntava-lhe o que seria d'elle se não tivesse tido a suprema ventura de a topar na sua frente quando desabrochava para as delicias do amor.</p>
+<p>E, sustentando as obnoxias theorias de que, em amor, dois fazem um, e que, portanto, o que um sente deve o outro sentir tambem, obrigava-o a partilhar com ella a magnesia calcinada e outras drogas medicativas afim de que elle adoecesse tambem!</p>
+<p>O resultado foi Cryptogamo sentir d'ahi a bocado uma revolução nos intestinos, que até chegou a suppôr que tinha lá dentro o cavalo de Troia com freio nos dentes. Motivo porque, torcido com dôres, pediu licença para ir lá dentro...</p>
+<p>D'ahi a pouco, já mais alliviadinho, e no momento em que passeiava no tombadilho, a tomar o fresco, o desventurado homem experimentou a dupla surpreza de sentir o seu cachaço agarrado por um dos braços roliços, ao passo que os seus ouvidos escutavam sons maviosos d'uma rabeca galhardamente desatinada: era a sua legitima esposa, a bella minhota, que lhe cahia nos braços, ao passo que o seu inseparavel companheiro festejava a reapparição de Cryptogamo tocando o hymno da Carta!</p>
+<p>Ponha-se o leitor na situação de Cryptogamo e diga-nos o que faria n'este transe... Naturalmente, atirava-se á bella minhota como gato a bofe... Elle, bem ao contrario, emhezerrou para um canto, a matutar nos horrores de uma bigamia mais do que imminente.</p>
+<p>Se bem que estorcendo-se em convulsões de susto, com a ideia de ser bigamo e suas funestas consequencias, não deixava entretanto de sorrir-lhe a ideia d'uma bigamiasinha pacata, no seio da familia... As mulheres são o diabo -- e o diabo não é tão feio como o pintam...</p>
+<p>-«Elle (ruminava Cryptogamo, piscando gaiatamente o olho) elle não deixava de ter lólé uma mulher para as segundas, quartas e sextas, e outra para as terças, quintas e sabados... E aos domingos, para variar, entreter-me-hia á caça das borboletas.</p>
+<p>Mas, reflectindo mais sensatamente, resolveu ficar apenas com uma, optando pela bella minhota, por quem tinha maior fatacaz. N'esta resolução, obteve do commandante do navio permissão para desembarcar n'essa mesma noite nas costas de Italia, de que a embarcação se achava proxima. E lá foi no lanchão de bordo, ternamente abraçado á gentil minhota, emquanto, á prôa, o rabequista tocava o Não te chegues, ó Pimenta!</p>
+<p>N'este comenos, Elvira, acordando muito afflicta -- em resultado da droga laxativa que mettêra na pá do bucho -- e estendendo febrilmente a mão para a banquinha de cabeceira, constatou, com pasmo e dôr, que não se achava ali o .. o Cryptogamo dos seus anhelos! Verdade seja que o Cryptogamo, propriamente dito, não lhe fazia lá muita falta para o caso sujeito... Mas fez-lhe especie a auzencia.</p>
+<p>Espicaçada por tenebrosas suspeitas, Elvira saltou lepida da cama, correu ao tombadilho, e, mais lepida ainda, marinhou pelo mastro grande, com a agilidade d'um macaco que trepa a um coqueiro!</p>
+<p>Chegando ao alto do mastro e cocando Cryptogamo a miscar-se com a outra, Elvira deu um grito, abrindo os braços. Felizmente que, enleiando-se nas enxarcias, ficou presa pelas pernas, evitando assim vir fazer-se em borra sobre o tombadilho.</p>
+<p>A este tempo, os dois fugitivos, tendo chegado á praia, punham pé em terra firme, acompanhados do seu inseparavel rabequista. Então, vendo-se a salvo da bigamia que o ameaçava, Cryptogamo deu largas á sua intima satisfação, começando a soltar Hurrahs! e Olés! que a bella minhota e o rabequista repetiam em côro, assustando as alforrecas.</p>
+<p>Em seguida a esta expansão tão enthusiastica, sentindo-se cada vez mais amoroso pela sua querida minhota, Cryptogamo tomou subrepticiamente o caminho d'um bosque que se achava proximo e que estava mesmo a dizer ginjas para continuação da lua de mel que os ditosos noivos haviam encetado no ventre da baleia.. O rabequista seguia-os, tocando no instrumento a melancolica e poetica canção pastoril: «Tim tim, vae lavar a perna...»</p>
+<p>Na afractuosidade d'uma rocha, que parecia ter sido ali posta propositadamente pela próvida Natureza para scenas d'esta... natureza, se acolheu velhacamente Cyptogamo, sentando-se  n'um calháu e convidando a esposa a sentar-se n'um montículo de relva e folhas seccas, confortavel e macio que nem colchão de sumaúma..</p>
+<p>Conseguindo desembaraçar-se das enxarcias, onde se emaranhára, e pôr pé no tombadilho, Elvira corre á pôpa do navio, dá um banano no timoneiro, atirando com elle de pernas ao ar, pega na canna do léme -- operação em que é assás perita -- e dirige a marcha do barco para terra.</p>
+<p>A curto trecho, a quilha dá n'um rochedo e o navio sossobra, afundando-se rapidamente; Elvira, que nadava como um peixão que era, toma o caminho da praia, nadando como um besugo.</p>
+<p>O doutor, que, felizmente, conservava ainda presa ao pé a lendária trave de madeira, depois de vários mergulhos e grutescas cambalhotas dentro d'agua, con segue emfim equilibrar-se sobre a taboa salvadora e, improvisando uma vela com as abas da sobrecasaca -- o que lhe deu o aspecto d'uma gallinha choca, tomou também a direcção de terra.</p>
+<p>Cryptogamo cocando Elvita, que vinha direita como um fuso nadando em direcção á anfractuosidade do rochedo onde elle estava fazendo das suas com a bella minhota, deu um grito de terror, lembrando-se da horrivel bigamia e marinhou pelo monte acima, como um lagarto, seguido da esposa, como uma gartixa. </p>
+<p>Por seu turno, o doutor, tendo conseguido chegar á praia antes de Elvira, mercê do vento que lhe soprava por traz, tratou também de se pôr a salvo das iras da noiva do seu melhor amigo.</p>
+<p>Vendo-se perseguido de perto, Cryptogamo resolveu fazer alto: formou quadrado, pondo na face o tocador de rabeca e o doutor, no flanco a bella minhota e elle no logar de porta-bandeira. E, enchendo-se de coragem, gritou para Elvira:</p>
+<p>-- Nem mais um passo! Eu sou casado! </p>
+<p>Estas palavras produziram o effeito d'uma granada de nitroglycerina: ao escutal-as, Elvira estoirou de raiva e de ciumes, partindo-se em estilhaços que fenderam os ares, matando os passarinhos!</p>
+<p>Passada a primeira impressão, produzida por este funesto mas algo jubiloso acontecimento, o doutor, servindo-se da sua trave, como se fôra uma enxada, abriu no chão uma cova onde foram sepultados os restos de Elvira, sobre os quaes Cryptogamo lançou algumas flores e pronunciou um sentido discurso capaz de fazer lagrimejar as pedras. Requiescat in pace!</p>
+<p>Em seguida ao que, se meteram todos alegremente a caminho para Villa Nova de Famalicão, terra natal da formosa minhota.</p>
+<p>O doutor, sempreajoujado com a sua tranca, fechava o coice do cortejo, a cuja vanguarda ia o rabequista; os noivos ternamente unidos segredavam doces projectos de execução noturna. Um idyllio!</p>
+<p>No caminho, durante uma paragem, a bella minhota afastou-se do grupo com Cryptopamo, e, aproveitando uma manifestação ultra-amorosa do seu querido maridinho, fez-lhe, por entre lagrimas, a confissão de que tinha, em Famalicão, oito filhos -- d'ella e do tocador de rabeca. Cryptogamo embatucou, enguliu em secco, levou as mãos á cabeça, mas não sentiu nada, porque o turbante almofadava tudo...</p>
+<p>Com effeito, apenas chegado a Villa Nova de Famalicão, Cryptogamo teve uma recepção enthusiastica por parte da descendencia de Elvira,  sentindo a ineffavel alegria de vêr marinhar por elle acima toda a irrequieta garotada, composta de sete membros de todas as edades, desde os sete annos até aos dez mezes -- que era a edade do ultimo fructo rebentado na possante vergontea da formosa minnota. Cryptogamo a todos abraçou e beijou como um verdadeiro pae -- em segunda mão. A sorte fizera-o feliz e dera-lhe muitos meninos, sem trabalhos nem fadigas.</p>
+<p>Passada a impressão do primeiro momento, feitas as apresentações do estylo e os cumprimentos da etiqueta, Cryptogamo - a quem, de começo, custára um pouco a roer aquella dos sete meninos sobre o cachaço, ou, peior, sobre a cabeça - Cryptogamo, que era mestre em philosophias, começou a reflectir philosophicamente que, se «os amigos dos nossos amigos nossos amigos são,» com muita mais razão os filhos da mulher d'elle filhos d'elle deviam ser... N'esta ordem de ideias - que prova á evidencia como Cryptogamo tinha a cabeça bem organizada - o feliz noivo resolveu acceitar os acontecimentos tal como se achavam consummados, nomeando o seu amigo doutor preceptor do familorio petiz e o rabequista professor de musica do mesmo. Ao cabo de alguns mezes, já o rabequista, attentando nas fórmas ultra-arredondadas da bella minhota, tocava no seu instrumento: «Hade chamar-se Gonçalo!...» E Cryptogamo lavava as mãos - como Pilatos...</p>
+</div>
+</body>
+</text>
+</TEI>
