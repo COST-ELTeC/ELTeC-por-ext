@@ -3,12 +3,12 @@
             schematypens="http://relaxng.org/ns/structure/1.0"?>
     <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0177" xml:lang="pt">   
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0109" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>Severina: Edição para o ELTeC</title>
-<author>Torrezão, Guiomar (1844-1898)</author>
+<author>Torresão, Guiomar (1844-1898)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Vanda Morgado</name>
@@ -19,18 +19,19 @@
 </respStmt>
 </titleStmt>
 <extent>
-<measure unit="words">4217</measure>
+<measure unit="words">4241</measure>
 </extent>
-<publicationStmt><p>Added to ELTeC repo on <date>25-1-2020</date></p></publicationStmt>
+<publicationStmt><p>Added to ELTeC repo on <date>8-6-2020</date></p></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>Severina</title> 
 <author>Guiomar Torrezão</author>
 <publisher>Biblioteca Nacional de Portugal</publisher>
+<ref target="http://purl.pt/33633"/>
 </bibl><bibl type="firstEdition">
 <title>Severina</title> 
 <author>Guiomar Torrezão</author>
-<publisher></publisher>
-<pubPlace></pubPlace> 
+<publisher>Typographia Universal</publisher>
+<pubPlace>Lisboa</pubPlace> 
 <date>1890</date>
 </bibl></sourceDesc>
 </fileDesc>
@@ -47,20 +48,22 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 
 </profileDesc>
 <revisionDesc>
-<change when="2020-01-25">Adicionado à coleção ELTeC</change>
+<change when="2020-06-08">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>SEVERINA</head>
+<div type="titlepage">
 <p>Guiomar Torrezão</p>
-<p>(Á Ex.ma Sr.a D. Maria Augusta de Palma Fernandes)</p>
+<p>SEVERINA</p>
+<p>(Á Ex.ma Sr.a D. Maria Augusta</p> 
+<p>de Palma Fernandes)</p>
 </div>
 </front>
 <body>

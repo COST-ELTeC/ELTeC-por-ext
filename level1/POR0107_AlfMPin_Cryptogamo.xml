@@ -27,6 +27,7 @@
 <title>Aventuras do sr. Cryptogamo: romance humorístico</title> 
 <author>Alfredo de Morais Pinto</author>
 <publisher>Biblioteca Nacional de Portugal</publisher>
+<ref target="http://purl.pt/36117"/>
 </bibl><bibl type="firstEdition">
 <title>Aventuras do sr. Cryptogamo: romance humoristico</title> 
 <author>Pantarantula</author>
@@ -55,13 +56,24 @@
 </profileDesc>
 <revisionDesc>
 <change when="2020-04-03">Adicionado à coleção ELTeC</change>
+
+<change when="2020-06-08">Tratada a página do título, e o URL</change>
+
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">
-<front>
-<div type="titlepage"><head>Aventuras do sr. Cryptogamo</head>
-<p>Romance humoristico</p>
-<p>Ilustrado com 200 gravuras</p>
+<front><div type="titlepage">
+<p>PANTARANTULA</p>
+<p>AVENTURAS</p>
+<p>DO SR.</p>
+<p>CRYPTOGAMO</p>
+<p>ROMANCE HUMORÍSTICO</p>
+<p>ILLUSTRADO COM 200 GRAVURAS</p>
+<p>Preço:200 réis</p>
+<p>OU 1$000 RÉIS, MOEDA BRAZILE1RA</p>
+<p>LISBOA</p>
+<p>Typ.do «Pimpão» Rua Formosa, 150 a 160</p>
+<p>1899</p>
 </div>
 </front>
 <body>
